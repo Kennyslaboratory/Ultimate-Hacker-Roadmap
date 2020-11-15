@@ -7,4 +7,3 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
 - 3- Associate
 - 4- Mid-Level
 - 5- Senior
-- 6- Guru
