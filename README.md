@@ -36,3 +36,4 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
 -- Understands how to bypass modern protection mechanisms such as DEP, ASLR, Canaries, CFI, Isolated Heaps, WAFs, etc.
 -- Has specialized knowledge in specific technologies. (Vehicles, IoT Devices, Firmware, etc)
 -- Can be found writing papers and providing talks at hacker conventions.
+-- May have knowledge in Malware Analysis and deobfuscating hardened malware.
