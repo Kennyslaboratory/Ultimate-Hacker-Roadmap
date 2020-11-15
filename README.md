@@ -22,7 +22,7 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
 -- Might get stumped when trying to bypass protections such as firewalls, etc.
 - Mid-Level ($95k - $120k)
 -- Can perform code review and work alone in most cases.
--- Profecient enough to work Remotely, requires very little oversight.
+-- Profecient enough to work full-time remotely, requires very little oversight.
 -- Understands the Big 4.  Web, Binary, Mobile, and Network Technologies.
 -- Understands how to Fuzz an application, Heap Spray, and enumerate vulnerabilities via input vectors.
 -- Can build applications using Cloud-Based technologies. (AWS, GCP, Azure).
