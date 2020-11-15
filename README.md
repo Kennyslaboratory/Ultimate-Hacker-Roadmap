@@ -15,6 +15,7 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
 -- Profiecent with web techonolgies, understands low-level networking, and is in the process of learning C/C++.
 -- May know a slight amount about Mobile Technology but not enough to do a security assessment.
 -- Can likely be hired as a security professional and work professionally but will likely need to be suprevised.
+-- Might get stumped when trying to bypass protections such as firewalls, etc.
 - Mid-Level
 -- Can perform code review and work alone in most cases.
 -- Profecient enough to work Remotely, requires very little oversight.
