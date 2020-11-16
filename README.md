@@ -47,3 +47,7 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
   * Has specialized knowledge in specific technologies. (Vehicles, IoT Devices, Firmware, etc)
   * Can be found writing papers and providing talks at hacker conventions.
   * May have knowledge in Malware Analysis and deobfuscating hardened malware.
+  
+  -----------
+  # Overview of IT Certifications
+  ![certs](certifications.png)
