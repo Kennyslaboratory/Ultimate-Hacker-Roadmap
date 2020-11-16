@@ -5,14 +5,17 @@ Maybe you know what the acronym TCP means, can login into your home router, and 
 
 -------
 
-### Be humble, please...
+#### Be humble, please...
 There are individuals who spend the majority of their lives building the software that you proudly use and it is a blantant form of disrespect when you do not support or give credit to these developers.  You are a long way from being the professional you think you are and your biggest challenge might just be overcoming your own ego.  Hopefully not.
 
 -------
 ## What you should focus on:
 The list of technologies below are practical skills you need to have to break into this field.  Acquiring the recommended certifications and learning the necessary skills to become a IT Support Specialist, you should be well on your way to pivot into more advanced technical careers either in Security, Administration, or Development.
 
-## Very Basic Computer Fundamentals
+-------
+# Table of Contents
+
+### Very Basic Computer Fundamentals
 * Binary
   * 8-Bit Binary Translation
   * Hexadecimal
@@ -69,6 +72,7 @@ The list of technologies below are practical skills you need to have to break in
   * RAID 5
   * RAID 6
   * RAID 10
+
 
 ## Very Basic Networking Funadmentals
 * LAN vs. WAN vs. MAN
@@ -138,8 +142,9 @@ The list of technologies below are practical skills you need to have to break in
 ## Very Basic Security Fundamentals
  * CIA Triad
  * Firewalls
+   * Stateful vs. Stateless
  * Port Forwarding
- * ACL
+ * ACLs
  * Encryption
   * Symettric Encryption _(Basic Understanding)_
     * AES
@@ -154,11 +159,19 @@ The list of technologies below are practical skills you need to have to break in
 * VPN Tunneling _(Basic Understanding)_
 * IPsec _(Basic Understanding)_
 * Digital Signatures _(Basic Understanding)_
-* Phishing
-* Spear Phishing
 * Signature-Based Intrusion Prevention Systems
 * Anamoly-Based Intrusion Prevention Systems
-* Dos & DDoS Attacks
+* Common Attacks
+  * Dos & DDoS Attacks
+  * Phishing
+  * Spear Phishing
+  * Malware
+    * Keyloggers
+    * RATs
+    * Trojans
+    * Worms
+    * Viruses
+
 
 ## Tools
  * Computer Diagnositics & Repair
