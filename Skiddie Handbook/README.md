@@ -89,6 +89,7 @@ The list of technologies below are practical skills you need to have to break in
 ### Very Basic Networking Funadmentals
 * LAN vs. WAN vs. MAN
 * NAT vs. PAT
+* Power Over Ethernet _(PoE)_
 * The OSI Model
  * Layer 1 - _Physical Layer_
    * RJ45, Twisted Pairs
@@ -222,7 +223,31 @@ The list of technologies below are practical skills you need to have to break in
    * Speed Test
   
 ### IT Support Equipment
- * 
+ * Basic Must-Have Equipment
+   * Screwdrivers
+   * Thermal Paste
+   * SATA Cables
+   * PSU Cable Converters
+     * 8-Pin PCIe to Molex
+     * Molex 4-Pin to SATA Power Adapter
+   * c13 Power Cords
+   * USB A-to-B Printer Cables
+   * USB Flash Drives
+   * External CD-Rom Drive
+   * USB-C Converter
+   * Universal Laptop Charger
+   * USB WiFi Dongle
+   * USB-to-Ethernet
+   * USB-to-SD
+   * USB-to-Bluetooth
+   * CMOS Batteries
+   * External Speakers _(Testing sound)_
+   * External Webcam
+   
+ * Network Equipment
+   * Out-of-Box Router _(for testing)_
+   * Box of Cat5e Cable
+   * 
 
 ### Recommended Certifications _(Entry Level)_
 * CompTIA A+
