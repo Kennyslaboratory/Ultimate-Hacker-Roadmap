@@ -49,5 +49,5 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
   * May have knowledge in Malware Analysis and deobfuscating hardened malware.
   
   -----------
-  # Overview of IT Certifications
+  ## Overview of IT Certifications
   ![certs](certifications.png)
