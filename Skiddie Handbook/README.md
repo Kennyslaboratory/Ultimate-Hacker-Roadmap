@@ -1,5 +1,5 @@
 # The Skiddie's Handbook
-You're interested in computers and want a job dealing with computer networks, servers, etc.  You've managed to log into the BIOS on your computer, install a new Graphics Card, and maybe you torrented a few movies from Pirate Bay. Your friends on Discord are impressed by the new aimbot you purchased and installed.  You bot in games but have no idea how the bot is coded or how it works.  
+You're interested in computers and want a job dealing with computer networks, security, servers, etc.  You've managed to log into the BIOS on your computer, install a new Graphics Card, and maybe you torrented a few movies from Pirate Bay. Your friends on Discord are impressed by the new aimbot you purchased and installed.  You bot in games but have no idea how the bot is coded or how it works.  
 
 Maybe you know what the acronym TCP means, can login into your home router, and perhaps you've installed Ubuntu on an old laptop.  You are probably considered the most technically literate in your small circle of friends and you likely keep the Low Orbit Ion Cannon on your hard drive if you're the typical toxic degenerate that DoS streamers on Twitch.
 
@@ -19,7 +19,7 @@ The list of technologies below are practical skills you need to have to break in
   * FAT32
   * NTFS
   * ext2, ext3, ext4
-* The Kernel
+* The Kernel _(Basic Understanding)_
 * Password Policies
 * Caching
 * Common File Exstentions
@@ -40,6 +40,7 @@ The list of technologies below are practical skills you need to have to break in
 * Encoding
   * Base64
   * ASCII
+  * UTF-8
 * RAIDs
   * RAID 0
   * RAID 1
@@ -48,24 +49,76 @@ The list of technologies below are practical skills you need to have to break in
   * RAID 10
 
 **Networking Funadmentals**
-* The ISO Model
- * Layer 1 - Physical Layer
+* LAN vs. WAN vs. MAN
+* NAT vs. PAT
+* The OSI Model
+ * Layer 1 - _Physical Layer_
    * RJ45, Twisted Pairs
    * WiFi Frequencies
    * Coaxial Cabling
    * Fiber Optics
      * Single Mode
      * Multi-Mode
- * Layer 2 - Data-Link Layer
+ * Layer 2 - _Data-Link Layer_
    * MAC Addresses
    * FCS & CRC
    * Switches & Hubs
    * ARP
- * Layer 3 - Network Layer
-   * IP Addressing
-   * Subnetting
-   * Routing
+ * Layer 3 - _Network Layer_
+   * IPv6 Addressing
+   * Subnet Masks
+   * Routers
+ * Layer 4 - _Transport Layer_
+   * TCP vs. UDP
+   * Most Common Port Numbers:
+     * 21
+     * 22
+     * 23
+     * 25
+     * UDP 53
+     * 80
+     * 161 & 162
+     * 443
+   * Layer 5 - _Session Layer_
+     * Sockets
+   * Layer 6 - _Presentation Layer_
+     * SSL / TLS _(Basic Understanding)_
+     * SSH
+   * Layer 7 - _Application Layer_
+     * DNS
+     * HTTP
+     * FTP
+ * Email Technologies
+   * IMAP
+   * POP3
+   * SPF Records
+   * MX Records
+   
+**Tools** - _Software_
+ * Computer Diagnositics & Repair
+  * Reviewing System Logs _(Windows)_
+   * Task Manager
+   * Resource Center
+   * Event Logs
+  * Malware Removal Tools
+   * Microsoft Defender
+   * MalwareBytes
+   * AdwCleaner
+   * JRT _(Junk Removal Tool)_
+ * Network Troubleshooting
+  * ipconfig
+  * ping
+  * tracert
+  * nslookup
+  * dig
+  * whois
+  * netstat
+  * Putty
+  * arp -a
+  * Speed Test
   
+**Tools** - _Hardware_
+ * 
 
 **Recommended Certifications**
 * CompTIA A+
