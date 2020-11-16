@@ -7,7 +7,7 @@ Great!  I'm here to finally level up your skills and get you out that boring IT 
 
 -------
 ## What you should focus on:
-Web Application Hacking.  Right now, the majority of work that Security Firms are contracted to test are Web Applications.  Esspecually applications that are deployed to the Cloud, such as AWS, GCP, and Azure.  You'll need to have very indepth knowledge of these technologies if you expect to claw your way into an Associate position at a security firm.
+If you want to become an Acossicate Penetration Tester then you should put 80% of your effort into **Web Application Hacking**.  Right now, the majority of work that security firms are contracted to test are Web Applications.  Esspecually applications that are deployed to the cloud, such as AWS, GCP, and Azure.  You'll need to have very indepth knowledge of these technologies if you expect to claw your way into an Associate position at a security firm that hires penetration testers.
 
 ## The Framework of Understanding a Vulnerability
 Before you can move on to learning another vulnerability, you must fully understand it's following:
@@ -17,7 +17,31 @@ Before you can move on to learning another vulnerability, you must fully underst
  * Bypassing Weak Mitigations
  
  -------
+# Table of Contents
+
 ## Web Application Fundamentals
+  * HTML
+    * MetaTags
+    * Forms
+    * Attributes
+    * iFrames
+  * CSS
+    * Stylesheet Subresource Integrity
+  * JavaScript _(Basics)_
+    * JavaScript Syntax
+    * XMLHttpRequest()
+    * jQuery _(Basic Understanding)_
+    * JavaScript Frameworks _(Basic Understanding)_
+      * Angular
+      * Angular2
+      * React
+      * Vue
+    * JavaScript Subresource Integrity
+  * Content Deliver Netowrks _(CDNs)_
+  * MVC Design Pattern
+    * Models
+    * Views
+    * Controllers
   * HTTP Headers
   * HTTP Requests
     * GET
@@ -25,13 +49,27 @@ Before you can move on to learning another vulnerability, you must fully underst
     * PUT
     * DELETE
     * OPTIONS
-  * Cookies
-    * Cookie Flags / Cookie Prefixes
-      * HttpOnly
-      * HostOnly
-      * Secure
-      * Same-Site
-      * Expires
+  * Same-Origin Policy _(SOP)_
+    * CORS
+      * Preflight Requests
+  * Session Management
+    * Cookies
+      * Cookie Flags / Cookie Prefixes
+        * HttpOnly
+        * HostOnly
+        * Secure
+        * Same-Site
+        * Expires
+   * Database Essentials
+     * SQL
+       * SQL DBMS _(Basic Familiarity)_
+         * MySQL
+         * SQLite
+         * Microsoft SQL
+         * PostgreSQL
+         * Oracle DB
+       * SQL Syntax
+     * NoSQL
 
 ## Web Application Vulnerabilities
   * OWASP Top 10
