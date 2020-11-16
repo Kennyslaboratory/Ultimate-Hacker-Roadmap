@@ -12,8 +12,10 @@ There are individuals who spend the majority of their lives building the softwar
 ## What you should focus on:
 The list of technologies below are practical skills you need to have to break into this field.  Acquiring the recommended certifications and learning the necessary skills to become a IT Support Specialist, you should be well on your way to pivot into more advanced technical careers either in Security, Administration, or Development.
 
-**Computer Fundamentals**
-* 8-Bit Binary
+## Computer Fundamentals
+* Binary
+ * 8-Bit Binary Translation
+ * Hexadecimal
 * BIOS
 * Hard Drive Partitioning / Formatting
   * FAT32
@@ -48,7 +50,7 @@ The list of technologies below are practical skills you need to have to break in
   * RAID 6
   * RAID 10
 
-**Networking Funadmentals**
+## Networking Funadmentals
 * LAN vs. WAN vs. MAN
 * NAT vs. PAT
 * The OSI Model
@@ -94,7 +96,7 @@ The list of technologies below are practical skills you need to have to break in
    * SPF Records
    * MX Records
    
-**Tools** - _Software_
+## Tools
  * Computer Diagnositics & Repair
   * Reviewing System Logs _(Windows)_
    * Task Manager
@@ -117,10 +119,10 @@ The list of technologies below are practical skills you need to have to break in
   * arp -a
   * Speed Test
   
-**Tools** - _Hardware_
+## Equipment
  * 
 
-**Recommended Certifications**
+## Recommended Certifications
 * CompTIA A+
 * CompTIA Network+
 * CompTIA Security+
