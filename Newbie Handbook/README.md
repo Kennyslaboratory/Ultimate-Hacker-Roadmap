@@ -1,5 +1,5 @@
 # The Newbie's Handbook
-So you've looked over the laundry list of technological concepts in my Skiddie's Handbook and said, "Yeah I know all of these stuff."  You are probably working in a Technical Support role already, making upwards around $40,000 / year.  You're job is beginning to bore you and you were always an aspiring Penetration Tester.
+So you've looked over the laundry list of technological concepts in my Skiddie's Handbook and said, "Yeah! I know all of this stuff."  You are probably working in a Technical Support role already, making upwards around $40,000 / year.  You're job is beginning to bore you and you were always super interested in Penetration Testing.
 
 Great!  It is time to finally level up your skills and get out the IT Support role, no longer dealing with to angry old men over the phone who can't access with email.  But, don't quit your day job just yet.  Breaking the barrier between IT Support Specialist and Penetration Tester took me nearly 5 years to accomplish.  I went through a lot of ups and downs personally.  However, I didn't have a curated list of topics I needed to master beforehand.  So hopefully, I can get you up to speed quickly!
 
@@ -14,7 +14,7 @@ Before you can move on to learning another vulnerability, you must fully underst
  * The Recommended Fixes for the Vulnerability
  * Bypassing Weak Mitigations
  
- 
+ -------
 ## Web Application Fundamentals
   * HTTP Headers
   * HTTP Requests
