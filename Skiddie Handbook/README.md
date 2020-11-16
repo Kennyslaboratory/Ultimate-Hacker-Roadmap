@@ -16,9 +16,9 @@ The list of technologies below are practical skills you need to have to break in
 * 8-Bit Binary
 * BIOS
 * Hard Drive Partitioning / Formatting
- * FAT32
- * NTFS
- * ext2, ext3, ext4
+  * FAT32
+  * NTFS
+  * ext2, ext3, ext4
 * The Kernel
 * Password Policies
 * Caching
