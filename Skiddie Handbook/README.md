@@ -5,8 +5,8 @@ Maybe you know what the acronym TCP means, can login into your home router, and 
 
 -------
 
-### Be humble please...
-There are individuals who spend the majority of their lives building the software that you proudly use and it is a blantant form of disrespect when you do not give credit to these developers.  You are a long way from being the professional you think you are and your biggest challenge might just be overcoming your own ego.
+### Be humble, please...
+There are individuals who spend the majority of their lives building the software that you proudly use and it is a blantant form of disrespect when you do not support or give credit to these developers.  You are a long way from being the professional you think you are and your biggest challenge might just be overcoming your own ego.  Hopefully not.
 
 -------
 ## What you should focus on:
@@ -127,6 +127,7 @@ The list of technologies below are practical skills you need to have to break in
    * Malware Removal Tools
      * Microsoft Defender
      * MalwareBytes
+     * RogueKiller
      * AdwCleaner
      * JRT _(Junk Removal Tool)_
  * Network Troubleshooting
