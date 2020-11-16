@@ -37,21 +37,36 @@ Before you can move on to learning another vulnerability, you must fully underst
       * React
       * Vue
     * JavaScript Subresource Integrity
+  * Same-Origin Policy _(SOP)_
+  * CORS
+    * Preflight Requests
   * Content Deliver Netowrks _(CDNs)_
   * MVC Design Pattern
     * Models
     * Views
     * Controllers
   * HTTP Headers
+    * Most Important HTTP Headers
+      * User-Agent
+      * Host
+      * Cookie
+      * Content-Type _(MIME Types)_
+      * Transfer-Encoding
+      * Accept-Encoding
+      * Upgrade
+      * CORS Headers
+        * Origin
+        * Access-Control-Allow-Origin
+        * Access-Control-Allow-Credentials
+        * Access-Control-Request-Method
+        * Access-Control-Request-Headers
+      * X-Csrf-Token
   * HTTP Requests
     * GET
     * POST
     * PUT
     * DELETE
     * OPTIONS
-  * Same-Origin Policy _(SOP)_
-    * CORS
-      * Preflight Requests
   * Session Management
     * Cookies
       * Cookie Flags / Cookie Prefixes
