@@ -29,6 +29,7 @@ The list of technologies below are practical skills you need to have to break in
   * CPU Clockspeeds
   * BIOS Firmware Upgrades
   * Enabling Virtualization Support
+  * Secure Boot _(Basic Understanding)_
 * Hard Drive Basics
   * Magnetic HDDs
   * SSDs
