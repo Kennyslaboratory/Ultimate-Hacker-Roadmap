@@ -5,7 +5,7 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
 * **Skiddie** _(Unhirable)_
   * Typically annoying individuals who contribute in DoS Attacks, purchase hacking software to cheat in games, and express their lackluster dominance in the hacking community.
   * Doesn't understand code, networking, web technology, or how anything works.
-  * Relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, precompile RATs, etc.
+  * Relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, precompiled RATs, etc.
   * Downloaded Tor and thinks they're the next Albert Einstein.
   * Often suffers from the Dunning Kruger effect.
 * **Newbie** _($30k - $50k)_
