@@ -74,7 +74,7 @@ The list of technologies below are practical skills you need to have to break in
   * RAID 10
 
 
-## Very Basic Networking Funadmentals
+### Very Basic Networking Funadmentals
 * LAN vs. WAN vs. MAN
 * NAT vs. PAT
 * The OSI Model
@@ -139,7 +139,7 @@ The list of technologies below are practical skills you need to have to break in
      * WPS
    
    
-## Very Basic Security Fundamentals
+### Very Basic Security Fundamentals
  * CIA Triad
  * Firewalls
    * Stateful vs. Stateless
@@ -173,7 +173,7 @@ The list of technologies below are practical skills you need to have to break in
     * Viruses
 
 
-## Tools
+### IT Support Tools
  * Computer Diagnositics & Repair
    * Reviewing System Logs _(Windows)_
      * Task Manager
@@ -185,6 +185,17 @@ The list of technologies below are practical skills you need to have to break in
      * RogueKiller
      * AdwCleaner
      * JRT _(Junk Removal Tool)_
+   * Windows Recovery Tools
+     * chkdsk
+     * sfc /scannow
+     * DISM.exe
+     * Safemode
+     * System Recovery
+     * Shadow Copy
+   * Hardware Diagnostic Utilities
+     * MemTest86
+     * HDtune
+     * Benchmarking Tools
  * Network Troubleshooting
    * ipconfig
    * ping
@@ -197,10 +208,10 @@ The list of technologies below are practical skills you need to have to break in
    * arp -a
    * Speed Test
   
-## IT Equipment
+### IT Support Equipment
  * 
 
-## Recommended Certifications
+### Recommended Certifications _(Entry Level)_
 * CompTIA A+
 * CompTIA Network+
 * CompTIA Security+
