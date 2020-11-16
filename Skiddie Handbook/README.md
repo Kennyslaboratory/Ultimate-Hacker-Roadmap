@@ -12,7 +12,7 @@ There are individuals who spend the majority of their lives building the softwar
 ## What you should focus on:
 The list of technologies below are practical skills you need to have to break into this field.  Acquiring the recommended certifications and learning the necessary skills to become a IT Support Specialist, you should be well on your way to pivot into more advanced technical careers either in Security, Administration, or Development.
 
-## Computer Fundamentals
+## Very Basic Computer Fundamentals
 * Binary
   * 8-Bit Binary Translation
   * Hexadecimal
@@ -41,7 +41,14 @@ The list of technologies below are practical skills you need to have to break in
     * Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9
   * 32bit CPUs
   * 64bit CPUs
+* MultiThreading vs. MultiProcessing
 * The Kernel _(Basic Understanding)_
+* Windows Features
+  * Windows Compatability Mode
+  * .NET _(Basic Understanding)_
+  * Hyper-V _(Basic Understanding)_
+  * LDAP _(Basic Understanding)_
+  * SMB _(Basic Understanding)_
 * Caching
 * Common File Exstentions
   * .exe
@@ -63,13 +70,12 @@ The list of technologies below are practical skills you need to have to break in
   * RAID 6
   * RAID 10
 
-## Networking Funadmentals
+## Very Basic Networking Funadmentals
 * LAN vs. WAN vs. MAN
 * NAT vs. PAT
 * The OSI Model
  * Layer 1 - _Physical Layer_
    * RJ45, Twisted Pairs
-   * WiFi Frequencies
    * Coaxial Cabling
    * Fiber Optics
      * Single Mode
@@ -79,8 +85,10 @@ The list of technologies below are practical skills you need to have to break in
    * FCS & CRC
    * Switches & Hubs
    * ARP
+   * DHCP
  * Layer 3 - _Network Layer_
    * IPv4 Addressing
+   * CIDR Notation
    * Packets
    * Subnet Masks
    * Routers
@@ -95,7 +103,9 @@ The list of technologies below are practical skills you need to have to break in
      * UDP 53
      * 80
      * 161 & 162
+     * 389
      * 443
+     * 445
    * Layer 5 - _Session Layer_
      * Sockets
    * Layer 6 - _Presentation Layer_
@@ -111,16 +121,44 @@ The list of technologies below are practical skills you need to have to break in
    * SPF Records
    * MX Records
    * Domain Names
+ * WiFi Essentials
+   * Configuring Router's WiFi
+   * 802.11
+   * Ad Hoc Networking
+   * WiFi Frequences
+     * 2.4GHz
+     * 5.0GHz
+   * WiFi Security Basics _(Shared Key)_
+     * WEP
+     * WPA1, WPA2
+     * TKIP vs. AES
+     * WPS
    
-## Security Fundamentals
+   
+## Very Basic Security Fundamentals
  * CIA Triad
+ * Firewalls
+ * Port Forwarding
+ * ACL
  * Encryption
   * Symettric Encryption _(Basic Understanding)_
+    * AES
+    * DES
   * Asymettric Encryption _(Basic Understanding)_
+    * PGP
 * Hashing
   * MD5
   * SHA1, SHA2
 * Password Policies
+* Least Previlage
+* VPN Tunneling _(Basic Understanding)_
+* IPsec _(Basic Understanding)_
+* Digital Signatures _(Basic Understanding)_
+* Phishing
+* Spear Phishing
+* Signature-Based Intrusion Prevention Systems
+* Anamoly-Based Intrusion Prevention Systems
+* Dos & DDoS Attacks
 
 ## Tools
  * Computer Diagnositics & Repair
