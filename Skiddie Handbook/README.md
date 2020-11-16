@@ -1,7 +1,7 @@
 # The Skiddie's Handbook
 You're interested in computers and want a job dealing with computer networks, servers, etc.  You've managed to log into the BIOS on your computer, install a new Graphics Card, and maybe you torrented a few movies from Pirate Bay. Your friends on Discord are impressed by the new aimbot you purchased and installed.  You bot in games but have no idea how the bot is coded or how it works.  
 
-Maybe you know what the acronym TCP means, can login into your home router, and perhaps you've installed Ubuntu on an old laptop.  You are probably considered the most technically literate in your small circle of friends and you likely keep the Low Orbit Ion Cannon on your hard drive if you're a typical toxic degenerate to DoS streamers on Twitch.
+Maybe you know what the acronym TCP means, can login into your home router, and perhaps you've installed Ubuntu on an old laptop.  You are probably considered the most technically literate in your small circle of friends and you likely keep the Low Orbit Ion Cannon on your hard drive if you're the typical toxic degenerate that DoS streamers on Twitch.
 
 -------
 
