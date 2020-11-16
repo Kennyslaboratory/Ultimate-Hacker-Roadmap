@@ -10,7 +10,7 @@ There are individuals who spend the majority of their lives building the softwar
 
 -------
 ## What you should focus on:
-The list of technologies below are practical skills you need to have to break into this field.  Acquiring the recommended certifications and learning the necessary skills to become a IT Support Specialist, you should be well on your way to pivot into more advanced technical careers either in Security, Administration, or Development.
+These are the skills you'll need to have to *break into the field*.  Acquiring the recommended certifications and learning these necessary skills should land you a paying job as an IT Support Specialist.  Starting is IT Support is the best way to make connections, gain experience, and pivot into more advanced technical careers such as Security, Administration, or Development.
 
 -------
 # Table of Contents
@@ -225,6 +225,7 @@ The list of technologies below are practical skills you need to have to break in
 ### IT Support Equipment
  * Basic Must-Have Equipment
    * Screwdrivers
+   * Portable Laptop
    * Thermal Paste
    * SATA Cables
    * PSU Cable Converters
@@ -244,10 +245,15 @@ The list of technologies below are practical skills you need to have to break in
    * External Speakers _(Testing sound)_
    * External Webcam
    
- * Network Equipment
+ * Basic Networking Equipment
    * Out-of-Box Router _(for testing)_
    * Box of Cat5e Cable
-   * 
+   * Ethernet Cable Crimpers
+   * RJ45 Modular Plug Tester
+   * RJ45 Wire Tracer (Tone & Probe)
+   * Drywall Saw
+   * RJ45 Wall Jacks
+   * RJ45 Wall Mounts
 
 ### Recommended Certifications _(Entry Level)_
 * CompTIA A+
