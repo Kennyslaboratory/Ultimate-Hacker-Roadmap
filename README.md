@@ -2,16 +2,16 @@
 A list of everything you need to be successful as an Ethical Hacker.  The best learning resources, tools, exploits, and payloads all neatly organized into one place.  I've categorized everything by skill level so you know where you stand and where you should start.
 
 ## Skill Levels
-* Skiddie (Unhirable)
+1 Skiddie (Unhirable)
   * Doesn't understand code, networking, web technology, or how anything works.
   * Relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, etc.
   * Suffers from the dunning kruger effect.
-* Newbie ($30k - $50k)
+2 Newbie ($30k - $50k)
   * Understands Linux CLI, basic BASH Scripting, and the fundamentals of a High-Level language like Python or Ruby.
   * Will struggle but can likely code their own static Website using HTML, CSS, and basic JavaScript.
   * Recently discovered the OWASP Top 10, and has done a few walkthroughs on labs regarding SQL Injection, XSS, and CSRF.
   * Gets the gist of encryption but doesn't understand it fully.  "It has keys and stuff?"
-- Associate ($80k - $90k)
+3 Associate ($80k - $90k)
 -- Understands the OWASP Top 10 and probably recently learned about CORS, OOB-XXE, JWTs bugs, Cache Poisoning, OAuth2, and NoSQL Databases.
 -- Can do basic code review, but will likely struggle to find more granular vulnerabilities that require fuzzing and advanced debugging.
 -- Can build basic tools with Sockets, Regular Expressions, Web Scrapping Libraries, etc.
