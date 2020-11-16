@@ -79,7 +79,7 @@ The list of technologies below are practical skills you need to have to break in
    * Switches & Hubs
    * ARP
  * Layer 3 - _Network Layer_
-   * IPv6 Addressing
+   * IPv4 Addressing
    * Subnet Masks
    * Routers
  * Layer 4 - _Transport Layer_
