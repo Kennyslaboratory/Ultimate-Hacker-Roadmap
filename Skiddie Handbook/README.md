@@ -5,7 +5,7 @@ Maybe you know what the acronym TCP means, can login into your home router, and 
 
 -------
 
-### Learn your place, please...
+### Be humble please...
 There are individuals who spend the majority of their lives building the software that you proudly use and it is a blantant form of disrespect when you do not give credit to these developers.  You are a long way from being the professional you think you are and your biggest challenge might just be overcoming your own ego.
 
 -------
@@ -52,12 +52,6 @@ The list of technologies below are practical skills you need to have to break in
   * .c
   * .cpp
   * .py
-* Encryption
-  * Symettric Encryption _(Basic Understanding)_
-  * Asymettric Encryption _(Basic Understanding)_
-* Hashing
-  * MD5
-  * SHA
 * Encoding
   * Base64
   * ASCII
@@ -115,6 +109,15 @@ The list of technologies below are practical skills you need to have to break in
    * SPF Records
    * MX Records
    
+## Security Fundamentals
+ * CIA Triad
+ * Encryption
+  * Symettric Encryption _(Basic Understanding)_
+  * Asymettric Encryption _(Basic Understanding)_
+* Hashing
+  * MD5
+  * SHA
+ 
 ## Tools
  * Computer Diagnositics & Repair
    * Reviewing System Logs _(Windows)_
@@ -138,7 +141,7 @@ The list of technologies below are practical skills you need to have to break in
    * arp -a
    * Speed Test
   
-## Equipment
+## IT Equipment
  * 
 
 ## Recommended Certifications
