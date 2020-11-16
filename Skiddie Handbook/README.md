@@ -33,6 +33,7 @@ The list of technologies below are practical skills you need to have to break in
 * RAM
   * DDR1, DDR2, DDR3, DDR4
   * Memory Speeds
+  * Memory Addressing
 * CPUs
   * Intel
     * i3, i5, i7, i9
@@ -80,10 +81,12 @@ The list of technologies below are practical skills you need to have to break in
    * ARP
  * Layer 3 - _Network Layer_
    * IPv4 Addressing
+   * Packets
    * Subnet Masks
    * Routers
  * Layer 4 - _Transport Layer_
    * TCP vs. UDP
+   * Segments
    * Most Common Port Numbers:
      * 21
      * 22
@@ -107,6 +110,7 @@ The list of technologies below are practical skills you need to have to break in
    * POP3
    * SPF Records
    * MX Records
+   * Domain Names
    
 ## Security Fundamentals
  * CIA Triad
@@ -115,7 +119,7 @@ The list of technologies below are practical skills you need to have to break in
   * Asymettric Encryption _(Basic Understanding)_
 * Hashing
   * MD5
-  * SHA
+  * SHA1, SHA2
 * Password Policies
 
 ## Tools
