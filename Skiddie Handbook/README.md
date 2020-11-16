@@ -37,6 +37,8 @@ The list of technologies below are practical skills you need to have to break in
     * FAT32
     * NTFS
     * ext2, ext3, ext4
+  * MBR _(Legacy)_
+  * EFI / UEFI
 * RAM
   * DDR1, DDR2, DDR3, DDR4
   * Memory Speeds
