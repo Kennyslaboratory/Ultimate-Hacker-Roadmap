@@ -41,7 +41,6 @@ The list of technologies below are practical skills you need to have to break in
   * 32bit CPUs
   * 64bit CPUs
 * The Kernel _(Basic Understanding)_
-* Password Policies
 * Caching
 * Common File Exstentions
   * .exe
@@ -117,7 +116,8 @@ The list of technologies below are practical skills you need to have to break in
 * Hashing
   * MD5
   * SHA
- 
+* Password Policies
+
 ## Tools
  * Computer Diagnositics & Repair
    * Reviewing System Logs _(Windows)_
