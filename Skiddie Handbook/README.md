@@ -16,11 +16,30 @@ The list of technologies below are practical skills you need to have to break in
 * Binary
   * 8-Bit Binary Translation
   * Hexadecimal
-* BIOS
-* Hard Drive Partitioning / Formatting
-  * FAT32
-  * NTFS
-  * ext2, ext3, ext4
+* BIOS Configuration
+  * Boot Sequence
+  * Enabling / Disabling Devices
+  * Changing Date / Time
+  * CPU Clockspeeds
+  * Enable Virtualization Support
+* Hard Drive Basics
+  * Magnetic HDDs
+  * SSDs
+  * eMMC
+  * Partitioning
+    * FAT32
+    * NTFS
+    * ext2, ext3, ext4
+* RAM
+  * DDR1, DDR2, DDR3, DDR4
+  * Memory Speeds
+* CPUs
+  * Intel
+    * i3, i5, i7, i9
+  * AMD
+    * Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9
+  * 32bit CPUs
+  * 64bit CPUs
 * The Kernel _(Basic Understanding)_
 * Password Policies
 * Caching
@@ -98,26 +117,26 @@ The list of technologies below are practical skills you need to have to break in
    
 ## Tools
  * Computer Diagnositics & Repair
-  * Reviewing System Logs _(Windows)_
-   * Task Manager
-   * Resource Center
-   * Event Logs
-  * Malware Removal Tools
-   * Microsoft Defender
-   * MalwareBytes
-   * AdwCleaner
-   * JRT _(Junk Removal Tool)_
+   * Reviewing System Logs _(Windows)_
+     * Task Manager
+     * Resource Center
+     * Event Logs
+   * Malware Removal Tools
+     * Microsoft Defender
+     * MalwareBytes
+     * AdwCleaner
+     * JRT _(Junk Removal Tool)_
  * Network Troubleshooting
-  * ipconfig
-  * ping
-  * tracert
-  * nslookup
-  * dig
-  * whois
-  * netstat
-  * Putty
-  * arp -a
-  * Speed Test
+   * ipconfig
+   * ping
+   * tracert
+   * nslookup
+   * dig
+   * whois
+   * netstat
+   * Putty
+   * arp -a
+   * Speed Test
   
 ## Equipment
  * 
