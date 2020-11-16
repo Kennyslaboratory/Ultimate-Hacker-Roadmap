@@ -3,11 +3,11 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
 
 ## Skill Levels
 * **Skiddie** _(Unhirable)_
-  * Typically annoying individuals who contribute in DoS Attacks, purchase hacking software to cheat in games, and express their lackluster dominance in the hacking community.
-  * Doesn't understand code, networking, web technology, or how anything works.
-  * Relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, precompiled RATs, etc.
-  * Downloaded Tor and thinks they're the next Albert Einstein.
-  * Often suffers from the Dunning Kruger effect.
+  * Doesn't understand computing fundaments, code, networking, web technology, or how anything works beyond a fundamental level.
+  * Typically relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, precompiled RATs, etc.
+  * May have discovered Tor and thinks they're the next Albert Einstein.
+  * These individuals often suffer from the Dunning Kruger effect.
+    * AKA, if mommy didn't love you, then you may be considered the type of toxic individual who contributes in DoS Attacks, purchases hacking software to cheat in games, and tries to express their lackluster dominance in the hacking community.
 * **Newbie** _($30k - $50k)_
   * IT Support Specialist, IT Consultant, PC Repair Technician, etc.
   * Might understand Linux CLI, basic BASH Scripting, and the fundamentals of a High-Level language like Python or Ruby.
@@ -17,7 +17,7 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
   * May have an idea or recently discovered the OWASP Top 10, and maybe they've done a few walkthroughs regarding SQL Injection, XSS, and CSRF.
   * Gets the gist of encryption but doesn't understand it fully.  "It has keys and stuff..?"
   * Understands the CIA Triad, generaly understands the purpose for encryption, hashing, and encoding.
-  * Mr. Robot is your favorite TV Series. 
+  * Mr. Robot is your favorite TV Series.
 * **Associate** _($80k - $90k)_
   * Associate Security Consultant, Junior-Level Penetration Tester
   * Understands the OWASP Top 10 and probably recently learned about CORS, OOB-XXE, JWT bugs, Cache Poisoning, OAuth2, and NoSQL Databases.
