@@ -50,18 +50,18 @@ The list of technologies below are practical skills you need to have to break in
 **Networking Funadmentals**
 * The ISO Model
  * Layer 1 - Physical Layer
-  * RJ45, Twisted Pairs
-  * WiFi Frequencies
-  * Coaxial Cabling
+   * RJ45, Twisted Pairs
+   * WiFi Frequencies
+   * Coaxial Cabling
  * Layer 2 - Data-Link Layer
-  * MAC Addresses
-  * FCS & CRC
-  * Switches & Hubs
-  * ARP
+   * MAC Addresses
+   * FCS & CRC
+   * Switches & Hubs
+   * ARP
  * Layer 3 - Network Layer
-  * IP Addressing
-  * Subnetting
-  * Routing
+   * IP Addressing
+   * Subnetting
+   * Routing
   
 
 **Recommended Certifications**
