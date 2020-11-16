@@ -36,7 +36,7 @@ The list of technologies below are practical skills you need to have to break in
   * Asymettric Encryption _(Basic Understanding)_
 * Hashing
   * MD5
-  * SHA256
+  * SHA
 * Encoding
   * Base64
   * ASCII
