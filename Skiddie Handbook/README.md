@@ -38,8 +38,8 @@ The list of technologies below are practical skills you need to have to break in
   * MD5
   * SHA256
 * Encoding
- * Base64
- * ASCII
+  * Base64
+  * ASCII
 * RAIDs
   * RAID 0
   * RAID 1
