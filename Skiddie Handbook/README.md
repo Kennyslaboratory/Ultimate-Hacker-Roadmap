@@ -53,6 +53,9 @@ The list of technologies below are practical skills you need to have to break in
    * RJ45, Twisted Pairs
    * WiFi Frequencies
    * Coaxial Cabling
+   * Fiber Optics
+    * Single Mode
+    * Multi-Mode
  * Layer 2 - Data-Link Layer
    * MAC Addresses
    * FCS & CRC
