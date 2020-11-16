@@ -186,7 +186,7 @@ The list of technologies below are practical skills you need to have to break in
 --------------
 ## Tools
 
-### IT Support Tools
+### IT Support Software
  * Computer Diagnositics & Repair
    * Reviewing System Logs _(Windows)_
      * Task Manager
