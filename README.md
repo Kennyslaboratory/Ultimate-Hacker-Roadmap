@@ -3,32 +3,33 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
 
 ## Skill Levels
 * **Skiddie** _(Unhirable)_
+  * Typically annoying individuals who contribute in DoS Attacks, purchase hacking software to cheat in games, and express their dominance in the hacking community.
   * Doesn't understand code, networking, web technology, or how anything works.
-  * Relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, etc.
-  * Suffers from the dunning kruger effect.
+  * Relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, precompile RATs, etc.
+  * Often suffers from the Dunning Kruger effect.
 * **Newbie** _($30k - $50k)_
-  * IT Support Specialist, IT Consultant, etc.
-  * Understands Linux CLI, basic BASH Scripting, and the fundamentals of a High-Level language like Python or Ruby.
+  * IT Support Specialist, IT Consultant, PC Repair Technician, etc.
+  * Might understand Linux CLI, basic BASH Scripting, and the fundamentals of a High-Level language like Python or Ruby.
   * Will struggle but can likely code their own static Website using HTML, CSS, and basic JavaScript.
   * Understands how to troubleshoot computer and network issues.
-  * Recently discovered the OWASP Top 10, and has done a few walkthroughs on labs regarding SQL Injection, XSS, and CSRF.
+  * Recently discovered the OWASP Top 10, and maybe has done a few walkthroughs on labs regarding SQL Injection, XSS, and CSRF.
   * Gets the gist of encryption but doesn't understand it fully.  "It has keys and stuff?"
 * **Associate** _($80k - $90k)_
   * Associate Security Consultant, Junior-Level Penetration Tester
-  * Understands the OWASP Top 10 and probably recently learned about CORS, OOB-XXE, JWTs bugs, Cache Poisoning, OAuth2, and NoSQL Databases.
+  * Understands the OWASP Top 10 and probably recently learned about CORS, OOB-XXE, JWT bugs, Cache Poisoning, OAuth2, and NoSQL Databases.
   * Can do basic code review, but will likely struggle to find more granular vulnerabilities that require fuzzing and advanced debugging.
   * Can build basic tools with Sockets, Regular Expressions, Web Scrapping Libraries, etc.
-  * Profiecent with web techonolgies, understands low-level networking, and is in the process of learning C/C++ and Assembly.
+  * Proficient with web technologies, understands low-level networking, and is in the process of learning C/C++ and Assembly.
   * Can do a basic buffer overflow CTF, but will likely fail to bypass DEP, ASLR, etc.
   * May know a slight amount about Mobile Technology but not enough to do a security assessment.
-  * Can be hired as a security professional and work professionally but will likely need to be suprevised.
-  * Might get stumped when trying to bypass protections such as firewalls, etc.
+  * Can be hired as a security professional and work professionally but will likely need to be supervised.
+  * Might get stumped when trying to bypass certain protections such as firewalls, Content Security Policy, etc.
 * **Mid-Level** _($95k - $120k)_
-  * Security Consulatant, Security Engineer, Penetration Tester
+  * Security Consultant, Security Engineer, Penetration Tester
   * Can perform code review and work alone in most cases.
-  * Profecient enough to work full-time remotely, requires very little oversight.
-  * Understands the Big 4.  Web, Binary, Mobile, and Network Technologies.
-  * Understands how to Fuzz an application, Heap Spray, and enumerate vulnerabilities via input vectors.
+  * Proficient enough to work full-time remotely, requires very little oversight.
+  * Understands _"The Big 4"_ - Web Applications, Binary Exploitation, Mobile Applications, and Network-Based Attacks.
+  * Understands how to Fuzz an application, Heap Spray, do Power Analysis, and enumerate more granular vulnerabilities like Race Conditions, etc.
   * Can build applications using Cloud-Based technologies. (AWS, GCP, Azure).
   * Understands how to bypass most protections effectively.
   * Routinely challenges themselves with more complicated CTFs, Labs, and Projects.
@@ -38,7 +39,7 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
   * Senior Security Consultant, Senior Security Engineer, etc.
   * Works very close to the metal.
   * Has attended their fair share of hacker conventions and conferences.
-  * Understands how to bypass modern protection mechanisms such as DEP, ASLR, Canaries, CFI, Isolated Heaps, WAFs, etc.
+  * Can bypass modern binary protection mechanisms such as DEP, ASLR, Canaries, CFI, Isolated Heaps, etc.
   * Has specialized knowledge in specific technologies. (Vehicles, IoT Devices, Firmware, etc)
   * Can be found writing papers and providing talks at hacker conventions.
   * May have knowledge in Malware Analysis and deobfuscating hardened malware.
