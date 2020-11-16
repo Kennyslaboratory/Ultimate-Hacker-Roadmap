@@ -7,12 +7,12 @@ Great!  It is time to finally level up your skills and get out the IT Support ro
 ## What you should focus on:
 Web Application Hacking.  Right now, the majority of work that Security Firms are contracted to test are Web Applications.  Esspecually applications that are deployed to the Cloud, such as AWS, GCP, and Azure.  You'll need to have very indepth knowledge of these technologies if you expect to claw your way into an Associate position at a security firm.
 
-## The Framework of Understanding
- * How the Technology Works
- * Enumerating Vulnerabilities
- * Exploiting Vulnerabilities
- * Recommended Mitigations
- * Bypassing Poor Mitigations
+## The Framework of Understanding a Vulnerability
+Before you can move on to learning another vulnerability, you must fully understand it's following:
+ * How to Enumerate the Vulnerability
+ * Ways to Exploit the Vulnerability
+ * The Recommended Fixes for the Vulnerability
+ * Bypassing Weak Mitigations
  
  
 ## Web Application Fundamentals
@@ -30,3 +30,7 @@ Web Application Hacking.  Right now, the majority of work that Security Firms ar
       * Secure
       * Same-Site
       * Expires
+
+## Web Application Vulnerabilities
+  * OWASP Top 10
+    * 
