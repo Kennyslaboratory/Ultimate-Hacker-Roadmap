@@ -5,10 +5,6 @@ Maybe you know what the acronym TCP means, can login into your home router, and 
 
 -------
 
-#### Be humble, please...
-There are individuals who spend the majority of their lives building the software that you proudly use and it is a blantant form of disrespect when you do not support or give credit to these developers.  You are a long way from being the professional you think you are and your biggest challenge might just be overcoming your own ego.  Hopefully not.
-
--------
 ## What you should focus on:
 These are the skills you'll need to have to *break into the field*.  Acquiring the recommended certifications and learning these necessary skills should land you a paying job as an IT Support Specialist.  Starting in IT Support is the best way to make connections, gain experience, and pivot into more advanced technical careers such as Security, Administration, or Development.
 
