@@ -12,6 +12,35 @@ There are individuals who spend the majority of their lives building the softwar
 ## What you should focus on:
 The list of technologies below are skills you need to have to break into this field.  Acquiring the recommended certifications and learning the necessary skills to become a IT Support Specialist, you should be well on your way to pivot into more advanced technical careers either in Security, Administration, or Development.
 
+**Computer Fundamentals**
+* Hard Drive Partitioning
+* Bootloaders
+* Kernels
+* Password Policies
+* Caching
+* File Exstentions
+  * .exe
+  * .dll
+  * .html
+  * .js
+  * .c
+  * .cpp
+* Encryption
+  * Symettric Encryption
+    * AES128, AES192, AES256
+  * Asymettric Encryption
+  * Hybrid Encryption
+* Hashing
+  * MD5
+  * SHA256
+* RAIDs
+  * RAID 0
+  * RAID 1
+  * RADI 5
+  * RAID 6
+  * RAID 10
+
+
 **Recommended Certifications**
 * CompTIA A+
 * CompTIA Network+
