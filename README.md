@@ -5,8 +5,9 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
 * **Skiddie / 0-knowledge** _(Unhirable)_
   * Doesn't understand computing fundaments, code, networking, web technology, or how anything works beyond a fundamental level.
   * Typically relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, precompiled RATs, etc.
+  * Requires step-by-step tutorials to complete simple tasks or configurations.
   * May have discovered Tor and thinks they're the next Albert Einstein.
-  * These individuals often suffer from the Dunning Kruger effect.
+  * The worst of these individuals often suffer from the Dunning Kruger effect. _(Over inflated egos)_
     * AKA, if mommy didn't love you, then you may be considered the type of toxic individual who contributes in DoS Attacks, purchases hacking software to cheat in games, and tries to express their lackluster dominance in the hacking community.
 * **Newbie** _($30k - $50k)_
   * IT Support Specialist, IT Consultant, PC Repair Technician, etc.
