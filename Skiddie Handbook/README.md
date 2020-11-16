@@ -10,36 +10,59 @@ There are individuals who spend the majority of their lives building the softwar
 
 -------
 ## What you should focus on:
-The list of technologies below are skills you need to have to break into this field.  Acquiring the recommended certifications and learning the necessary skills to become a IT Support Specialist, you should be well on your way to pivot into more advanced technical careers either in Security, Administration, or Development.
+The list of technologies below are practical skills you need to have to break into this field.  Acquiring the recommended certifications and learning the necessary skills to become a IT Support Specialist, you should be well on your way to pivot into more advanced technical careers either in Security, Administration, or Development.
 
 **Computer Fundamentals**
-* Hard Drive Partitioning
-* Bootloaders
-* Kernels
+* 8-Bit Binary
+* BIOS
+* Hard Drive Partitioning / Formatting
+ * FAT32
+ * NTFS
+ * ext2, ext3, ext4
+* The Kernel
 * Password Policies
 * Caching
-* File Exstentions
+* Common File Exstentions
   * .exe
   * .dll
   * .html
+  * .css
   * .js
   * .c
   * .cpp
+  * .py
 * Encryption
-  * Symettric Encryption
-    * AES128, AES192, AES256
-  * Asymettric Encryption
-  * Hybrid Encryption
+  * Symettric Encryption _(Basic Understanding)_
+  * Asymettric Encryption _(Basic Understanding)_
 * Hashing
   * MD5
   * SHA256
+* Encoding
+ * Base64
+ * ASCII
 * RAIDs
   * RAID 0
   * RAID 1
-  * RADI 5
+  * RAID 5
   * RAID 6
   * RAID 10
 
+**Networking Funadmentals**
+* The ISO Model
+ * Layer 1 - Physical Layer
+  * RJ45, Twisted Pairs
+  * WiFi Frequencies
+  * Coaxial Cabling
+ * Layer 2 - Data-Link Layer
+  * MAC Addresses
+  * FCS & CRC
+  * Switches & Hubs
+  * ARP
+ * Layer 3 - Network Layer
+  * IP Addressing
+  * Subnetting
+  * Routing
+  
 
 **Recommended Certifications**
 * CompTIA A+
