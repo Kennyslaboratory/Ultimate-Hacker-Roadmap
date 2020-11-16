@@ -14,8 +14,8 @@ The list of technologies below are practical skills you need to have to break in
 
 ## Computer Fundamentals
 * Binary
- * 8-Bit Binary Translation
- * Hexadecimal
+  * 8-Bit Binary Translation
+  * Hexadecimal
 * BIOS
 * Hard Drive Partitioning / Formatting
   * FAT32
