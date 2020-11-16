@@ -5,7 +5,8 @@ Maybe you know what the acronym TCP means, can login to your home router, and pe
 
 ### Learn your place, please...
 There are individuals who spend the majority of their lives building the software that you proudly use and it is a blantant form of disrespect when you do not give credit to these developers.  You are a long way from being the professional you think you are and your biggest challenge might just be overcoming your own ego.
---
+
+-------
 ## What you should learn:
 The list of technologies below are skills you need to have to break into this field.  Acquiring the recommended certifications and learning the necessary skills to become a IT Support Specialist, you should be well on your way to pivot into more advanced technical careers either in Security, Administration, or Development.
 
