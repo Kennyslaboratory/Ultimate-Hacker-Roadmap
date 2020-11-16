@@ -183,7 +183,8 @@ The list of technologies below are practical skills you need to have to break in
     * Trojans
     * Worms
     * Viruses
-
+--------------
+## Tools
 
 ### IT Support Tools
  * Computer Diagnositics & Repair
