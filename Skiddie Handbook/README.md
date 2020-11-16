@@ -10,7 +10,7 @@ There are individuals who spend the majority of their lives building the softwar
 
 -------
 ## What you should focus on:
-These are the skills you'll need to have to *break into the field*.  Acquiring the recommended certifications and learning these necessary skills should land you a paying job as an IT Support Specialist.  Starting is IT Support is the best way to make connections, gain experience, and pivot into more advanced technical careers such as Security, Administration, or Development.
+These are the skills you'll need to have to *break into the field*.  Acquiring the recommended certifications and learning these necessary skills should land you a paying job as an IT Support Specialist.  Starting in IT Support is the best way to make connections, gain experience, and pivot into more advanced technical careers such as Security, Administration, or Development.
 
 -------
 # Table of Contents
