@@ -2,16 +2,19 @@
 A list of everything you need to be successful as an Ethical Hacker.  The best learning resources, tools, exploits, and payloads all neatly organized into one place.  I've categorized everything by skill level so you know where you stand and where you should start.
 
 ## Skill Levels
-* **Skiddie** (Unhirable)
+* **Skiddie** _(Unhirable)_
   * Doesn't understand code, networking, web technology, or how anything works.
   * Relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, etc.
   * Suffers from the dunning kruger effect.
-* **Newbie** ($30k - $50k)
+* **Newbie** _($30k - $50k)_
+  * IT Support Specialist, IT Consultant, etc.
   * Understands Linux CLI, basic BASH Scripting, and the fundamentals of a High-Level language like Python or Ruby.
   * Will struggle but can likely code their own static Website using HTML, CSS, and basic JavaScript.
+  * Understands how to troubleshoot computer and network issues.
   * Recently discovered the OWASP Top 10, and has done a few walkthroughs on labs regarding SQL Injection, XSS, and CSRF.
   * Gets the gist of encryption but doesn't understand it fully.  "It has keys and stuff?"
-* **Associate** ($80k - $90k)
+* **Associate** _($80k - $90k)_
+  * Associate Security Consultant, Junior-Level Penetration Tester
   * Understands the OWASP Top 10 and probably recently learned about CORS, OOB-XXE, JWTs bugs, Cache Poisoning, OAuth2, and NoSQL Databases.
   * Can do basic code review, but will likely struggle to find more granular vulnerabilities that require fuzzing and advanced debugging.
   * Can build basic tools with Sockets, Regular Expressions, Web Scrapping Libraries, etc.
@@ -20,7 +23,8 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
   * May know a slight amount about Mobile Technology but not enough to do a security assessment.
   * Can be hired as a security professional and work professionally but will likely need to be suprevised.
   * Might get stumped when trying to bypass protections such as firewalls, etc.
-* **Mid-Level** ($95k - $120k)
+* **Mid-Level** _($95k - $120k)_
+  * Security Consulatant, Security Engineer, Penetration Tester
   * Can perform code review and work alone in most cases.
   * Profecient enough to work full-time remotely, requires very little oversight.
   * Understands the Big 4.  Web, Binary, Mobile, and Network Technologies.
@@ -30,7 +34,8 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
   * Routinely challenges themselves with more complicated CTFs, Labs, and Projects.
   * Can likely develop their own malware or at least script enough to exfilrate the data they want.
   * Enough knowledge to write a fairly useful guide or book on penetration testing.
-* **Senior** ($120k+)
+* **Senior** _($120k+)_
+  * Senior Security Consultant, Senior Security Engineer, etc.
   * Works very close to the metal.
   * Has attended their fair share of hacker conventions and conferences.
   * Understands how to bypass modern protection mechanisms such as DEP, ASLR, Canaries, CFI, Isolated Heaps, WAFs, etc.
