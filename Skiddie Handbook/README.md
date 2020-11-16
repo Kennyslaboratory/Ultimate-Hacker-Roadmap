@@ -184,7 +184,8 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
     * Trojans
     * Worms
     * Viruses
---------------
+
+
 ## Tools
 
 ### IT Support Software
