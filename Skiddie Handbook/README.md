@@ -18,13 +18,17 @@ The list of technologies below are practical skills you need to have to break in
 ### Very Basic Computer Fundamentals
 * Binary
   * 8-Bit Binary Translation
-  * Hexadecimal
-* BIOS Configuration
+  * Base8 vs. Base10
+  * Hexadecimal _(Base16)_
+  * Bit vs. Nyble vs. Byte
+* Basic BIOS Configurations
   * Boot Sequence
   * Enabling / Disabling Devices
   * Changing Date / Time
+    * CMOS Batteries
   * CPU Clockspeeds
-  * Enable Virtualization Support
+  * BIOS Firmware Upgrades
+  * Enabling Virtualization Support
 * Hard Drive Basics
   * Magnetic HDDs
   * SSDs
@@ -45,6 +49,11 @@ The list of technologies below are practical skills you need to have to break in
   * 32bit CPUs
   * 64bit CPUs
 * MultiThreading vs. MultiProcessing
+* GPUs
+  * Integrated vs. Discrete GPUs
+  * Ray Tracing
+  * GPU Memory
+  * GPU Bandwidth
 * The Kernel _(Basic Understanding)_
 * Windows Features
   * Windows Compatability Mode
@@ -124,7 +133,7 @@ The list of technologies below are practical skills you need to have to break in
    * POP3
    * SPF Records
    * MX Records
-   * Domain Names
+ * Domain Names
  * WiFi Essentials
    * Configuring Router's WiFi
    * 802.11
