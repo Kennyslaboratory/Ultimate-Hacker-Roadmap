@@ -26,7 +26,7 @@ A list of everything you need to be successful as an Ethical Hacker.  The best l
   * Can do basic code review, but will likely struggle to find more granular vulnerabilities that require fuzzing and advanced debugging.
   * Can build basic tools with Sockets, Regular Expressions, Web Scrapping Libraries, etc.
   * You've played with Web Frameworks and MVC Web Applications.  You are fluent in HTML, CSS, and JavaScript.
-  * Proficient with web technologies, understands low-level networking, and is in the process of learning C/C++ and Assembly.
+  * Proficient with web technologies, understands low-level networking, and is in the process of learning Memory Management in C/C++ and Assembly.
   * Can do a basic stack-based buffer overflow CTF, but will likely fail to bypass DEP, ASLR, etc.
   * May know a slight amount about Mobile Technology but not enough to do a security assessment.
   * Can be hired as a security professional and work professionally but will likely need to be supervised.
