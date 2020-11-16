@@ -146,11 +146,11 @@ The list of technologies below are practical skills you need to have to break in
  * Port Forwarding
  * ACLs
  * Encryption
-  * Symettric Encryption _(Basic Understanding)_
-    * AES
-    * DES
-  * Asymettric Encryption _(Basic Understanding)_
-    * PGP
+   * Symettric Encryption _(Basic Understanding)_
+     * AES
+     * DES
+   * Asymettric Encryption _(Basic Understanding)_
+     * PGP
 * Hashing
   * MD5
   * SHA1, SHA2
