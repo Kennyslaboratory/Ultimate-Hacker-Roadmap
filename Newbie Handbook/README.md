@@ -12,13 +12,13 @@ If you want to become an Acossicate Penetration Tester then you should put 80% o
 ## The Framework of Understanding a Vulnerability
 IMPORTANT!!! Before you can move on to learning another vulnerability, you must be able to answer these 4 questions about the vulnerability you are currently researching:
  * **Find**
-   * How do you Enumerate the Vulnerability?
+   * How do you Enumerate the vulnerability?
  * **Exploit**
-   * How do you Exploit the Vulnerability?
+   * How do you Exploit the vulnerability?
  * **Fix**
    * What are the modern and recommended fixes for the vulnerability?
  * **Bypass**
-   * What protections don't work, and how can you bypass these weak mitigations?
+   * What protections don't work, and how can you bypass weak mitigations that lazy developers implement?
  
  -------
 # Table of Contents
@@ -126,6 +126,5 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 
 ## Recommended Certifications
  * CompTIA PenTest+
- * CEH
- * OSCP
+ * CEH _(Expensive)_
  * AWS Certified Solutions Architect - Associate
