@@ -70,6 +70,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
       * User-Agent
       * Host
       * Cookie
+      * Authorization
       * Content-Type _(MIME Types)_
       * Transfer-Encoding
       * Accept-Encoding
