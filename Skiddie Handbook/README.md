@@ -201,13 +201,13 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
      * sfc /scannow
      * DISM.exe
      * Safemode
-     * System Recovery
+     * System Restore
      * Shadow Copy
-   * Hardware Diagnostic Utilities
+   * **Hardware Diagnostic Utilities**
      * MemTest86
      * HDtune
      * Benchmarking Tools
- * Network Troubleshooting
+ * **Network Troubleshooting**
    * ipconfig
    * ping
    * tracert
@@ -220,14 +220,14 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
    * Speed Test
   
 ### IT Support Equipment
- * Basic Must-Have Equipment
+ * **Basic Must-Have Equipment**
    * Screwdrivers
    * Portable Laptop
    * Thermal Paste
    * SATA Cables
    * PSU Cable Converters
-     * 8-Pin PCIe to Molex
-     * Molex 4-Pin to SATA Power Adapter
+     * Molex to 8-Pin PCIe
+     * Molex to SATA Power Adapter
    * c13 Power Cords
    * USB A-to-B Printer Cables
    * USB Flash Drives
@@ -242,7 +242,7 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
    * External Speakers _(Testing sound)_
    * External Webcam
    
- * Basic Networking Equipment
+ * **Basic Networking Equipment**
    * Out-of-Box Router _(for testing)_
    * Box of Cat5e Cable
    * Ethernet Cable Crimpers
