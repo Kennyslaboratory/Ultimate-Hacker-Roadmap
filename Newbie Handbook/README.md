@@ -191,7 +191,41 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 
 
 ## Python Essentials
+  * Understanding the Basics
+    * Reading / Writing Files
+      * open()
+    * Issuing OS Commands
+      * os Module
+        * os.chdir()
+        * os.mkdir
+        * os.remove()
+        * os.rename()
+        * os.mkdir()
+        * os.rmdir()
+        * os.chmod()
+        * os.path.exists()
+        * os.path.isabs()
+        * os.path.isdir()
+        * os.path.isfile()
+        * os.path.getsize()
+        
+Os.walk () Generate all file names under the directory tree
 
+Os.listdir (' dirname ') lists the files for the specified directory
+
+OS.GETCWD () Get the current working directory
+
+Os.path.basename (' path/filename ') remove directory path, return file name
+
+Os.path.dirname (' path/filename ') remove file name, return directory path
+
+Os.path.join (path1[,path2[,...]]) combines the parts of the separation into one path name
+
+Os.path.split (' path ') returns (DirName (), basename ()) tuple
+
+Os.path.splitext () return (filename, extension) tuple
+
+Os.path.getatime\ctime\mtime returns the last access, creation, modification time, respectively
 
 
 
