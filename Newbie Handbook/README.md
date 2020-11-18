@@ -168,19 +168,20 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 
 
 ## Advanced Networking Essentials
-  * iptables
+  * SYN Scan
   * SSL/TLS In-Depth Understanding
     * HSTS
     * x509
+  * iptables
     
 
 ## Network-Based Vulnerabilities
   * Man-In-The-Middle Attack
     * ARP Poisoning
+    * Promiscuous Mode
   * WiFi Hacking / Security
     * Pre-Shared Keys
     * EAP
-    * Promiscuous Mode
     * Promiscuous Detection
     * Cracking WEP
     * Cracking WPA/WPA2
