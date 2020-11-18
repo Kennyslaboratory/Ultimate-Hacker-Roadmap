@@ -118,17 +118,19 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
   * Man-In-The-Middle Attack
     * ARP Poisoning
   * WiFi Hacking / Security
-    * Cracking WEP
-    * 4-Way Handshakes
-      * Pre-Wise Master Keys
-      * Authenticator Nonce
-      * Supplicant Nonce
-    * EAP
     * Pre-Shared Keys
+    * EAP
+    * Promiscuous Mode
+    * Cracking WEP
+    * Cracking WPA/WPA2
+        * 4-Way Handshakes
+          * Pre-Wise Master Keys
+          * Authenticator Nonce
+          * Supplicant Nonce
+        * DeAuth
     * WPA Enterprise
     * Bruteforcing WPS
-    * DeAuth
-    * 
+    * Evil Twin Attack
 
 ## Local Privilage Exculation
  * Windows
