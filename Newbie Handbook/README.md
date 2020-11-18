@@ -151,6 +151,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * Pre-Shared Keys
     * EAP
     * Promiscuous Mode
+    * Promiscuous Detection
     * Cracking WEP
     * Cracking WPA/WPA2
         * 4-Way Handshakes
