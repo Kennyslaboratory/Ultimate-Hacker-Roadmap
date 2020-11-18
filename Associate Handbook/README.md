@@ -12,7 +12,7 @@ You've already learned a great deal about Web Applications and can effectively t
 
 There's still a long road ahead, but you should be proud of yourself for making it this far.
 
-### The Big 4
+### Mastering the Big 4
 Below is a list that I like to call the BIG 4.  Your employer should have confidence when scheduling you on work that invovles any of the following 4 areas of assessment:
   * Network Security
   * Web Application Security
