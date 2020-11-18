@@ -32,11 +32,18 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
      * Dirb
      * Dirbuster
    * SQLmap
+   * CeWL
+   * Hydra
    * testssl.sh
  * Network-Based Tools
    * nmap
    * Netcat
    * Wireshark
+   * curl
+ * Password Cracking Tools
+   * Hashcat
+   * John the Ripper
+ *
    
 
 ## Web Application Fundamentals
@@ -132,14 +139,18 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * Bruteforcing WPS
     * Evil Twin Attack
 
+## Linux Essentials
+  * Linux Distributions
+    * Debian vs. RedHat
+    * Popular Penetration Testing Distros
+  * Linux CLI Essentials
+    * System Management
+    * Installing Software
+    * Networking
+  * 
 
-## Windows Penetration Testing
-  * Windpws Prefetch Parsing
-  * SMB Attack Vectors
-  * HOSTS File
-  * SAM File
-  * Pass-The-Hash
 
+## BASH Scripting
 
 
 ## Local Privilage Exculation
@@ -147,10 +158,19 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
  * Linux
 
 
+## Python Essentials
+
+
+
+
+
 ## Popular CVEs
+
 
 
 ## Recommended Certifications
  * CompTIA PenTest+
- * CEH _(Expensive)_
+ * CompTIA Linux+
+ * CCNA
+ * CEH
  * AWS Certified Solutions Architect - Associate
