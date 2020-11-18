@@ -132,6 +132,16 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * Bruteforcing WPS
     * Evil Twin Attack
 
+
+## Windows Penetration Testing
+  * Windpws Prefetch Parsing
+  * SMB Attack Vectors
+  * HOSTS File
+  * SAM File
+  * Pass-The-Hash
+
+
+
 ## Local Privilage Exculation
  * Windows
  * Linux
