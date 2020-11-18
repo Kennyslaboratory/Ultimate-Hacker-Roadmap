@@ -54,11 +54,11 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * iFrames
   * CSS
     * Stylesheet Subresource Integrity
-  * JavaScript _(Basics)_
-    * JavaScript Syntax
+  * JavaScript
+    * JavaScript Syntax Fundamentals
     * XMLHttpRequest()
-    * jQuery _(Basic Understanding)_
-    * JavaScript Frameworks _(Basic Understanding)_
+    * jQuery _(Basic Familiarity)_
+    * JavaScript Frameworks _(Basic Familiarity)_
       * Angular
       * Angular2
       * React
@@ -103,23 +103,46 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
         * Secure
         * Same-Site
         * Expires
-   * Database Essentials
-     * SQL
-       * SQL DBMS _(Basic Familiarity)_
-         * MySQL
-         * SQLite
-         * Microsoft SQL
-         * PostgreSQL
-         * Oracle DB
-       * SQL Syntax
-     * NoSQL
+    * 
+ * Database Essentials
+   * SQL
+     * SQL DBMS _(Basic Familiarity)_
+       * MySQL
+       * SQLite
+       * Microsoft SQL
+       * PostgreSQL
+       * Oracle DB
+     * SQL Syntax Basics
+       * USE
+       * SELECT
+         * WHERE
+         * LIKE
+       * INSERT
+       * UPDATE
+       * DROP
+       * DELETE
+   * NoSQL
+     * NoSQL DBMS _(Basic Familiarity)_
+       * Redis
+       * MongoDB
+       * Apache CouchDB
+        * Cloud Variants
+          * AWS DynomoDB
+          * GCP DataStore
+          * Azure CosmosDB
+     * NoSQL Syntax Basics
+      * 
 
 ## Web Application Vulnerabilities
   * OWASP Top 10
 
 
 ## Advanced Networking Essentials
-
+  * iptables
+  * SSL/TLS In-Depth Understanding
+    * HSTS
+    * x509
+    
 
 ## Network-Based Vulnerabilities
   * Man-In-The-Middle Attack
@@ -147,7 +170,15 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * System Management
     * Installing Software
     * Networking
-  * 
+    * Inspecting Logs
+  * Linux Data Exfilration
+    * /tmp
+    * /etc/passwd
+    * /etc/shadow
+    * ~/.ssh/id_rsa
+    * /etc/cron.d
+    * /var/www
+    
 
 
 ## BASH Scripting
