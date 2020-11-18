@@ -115,7 +115,20 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 
 
 ## Network-Based Vulnerabilities
-
+  * Man-In-The-Middle Attack
+    * ARP Poisoning
+  * WiFi Hacking / Security
+    * Cracking WEP
+    * 4-Way Handshakes
+      * Pre-Wise Master Keys
+      * Authenticator Nonce
+      * Supplicant Nonce
+    * EAP
+    * Pre-Shared Keys
+    * WPA Enterprise
+    * Bruteforcing WPS
+    * DeAuth
+    * 
 
 ## Local Privilage Exculation
  * Windows
