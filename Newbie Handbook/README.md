@@ -135,6 +135,36 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 
 ## Web Application Vulnerabilities
   * OWASP Top 10
+    * Injection
+      * SQL Injection
+      * NoSQL Injection
+      * CMD Injection
+      * LDAP Injection
+    * Broken Authentication
+    * Sensitive Data Exposure
+    * XXE
+      * XXE-OOB
+    * Broken Access Controls
+    * Security Misconfigurations
+    * XSS
+      * Reflected
+      * Stored
+      * DOM-XSS
+    * Insecure Deserialization
+      * Java
+      * PHP
+      * .NET
+    * Using Components with Known Vulnerabilities
+    * Insufficient Logging & Monitoring
+  * Advanced Application Attacks
+    * HTTP Response Splitting
+    * HTTP Request Smuggling
+    * Cache Posioning
+    * CORS Misconfigurations
+    * OAuth2 Attacks
+      * Open Redirect Token Theft
+    * JSON Web Token CVEs
+    * Prototype Pollution
 
 
 ## Advanced Networking Essentials
