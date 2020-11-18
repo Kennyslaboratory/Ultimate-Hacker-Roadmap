@@ -1,4 +1,4 @@
-# The Associate Security Consultant's Handbook - Level 3
+# The Associate Hacker's Handbook - Level 3
 You did it!  You finally managed to get an actual job in Security Engineering or Penetration Testing.  You've come a long way and are now learning that you still have much to learn before you can call yourself a professional.  People are impressed by your efforts and you should be proud of yourself for making this far.
 
 You should not be in this level unless you understand the technologies, methodologies, vulnerabilities, and security solutions listed in the Newbie's Handbook.
