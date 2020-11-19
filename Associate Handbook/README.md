@@ -44,17 +44,17 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
  
  * **Modern Binary Protection Techniques**
   * OS-Level Protections
-   * NX-Bit _(DEP)_
-   * ASLR
-   * CFI _(CFG)_
-    * Code-Pointer Separation
-    * Code-Pointer Integrity
-    * Vtable Pointer Verification
+    * NX-Bit _(DEP)_
+    * ASLR
+    * CFI _(CFG & RFG)_
+      * Code-Pointer Separation
+      * Code-Pointer Integrity
+      * Vtable Pointer Verification
   * Compile-Time Protections
-  * Stack Canaries
-   * Random canaries
-   * Random XOR Canaries
-   * Terminator Canaries
+    * Stack Canaries
+      * Random canaries
+      * Random XOR Canaries
+      * Terminator Canaries
   * Isolated Heaps _(MS14-035)_
   * Microsoft's MemoryProtection _(MS14-037)_
   
@@ -64,11 +64,11 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 ## Mobile Fundamentals
  * Mobile Communications
-   * SIM Card
-   * LTE
-   * 3G
-   * 4G
-   * 5G
+  * SIM Card
+  * LTE
+  * 3G
+  * 4G
+  * 5G
  * Mobile Data
  * Rooting
  * Jailbreaking
