@@ -24,7 +24,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 # Table of Contents
 
 ## Popular Penetration Testing Tools
- * Web Applications Tools
+ * **Web Applications Tools**
    * BurpSuite
    * WPscan
    * Nikto
@@ -35,15 +35,22 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
    * CeWL
    * Hydra
    * testssl.sh
- * Network-Based Tools
+ * **Network-Based Tools**
    * nmap
    * Netcat
    * Wireshark
    * curl
- * Password Cracking Tools
+ * **Password Cracking Tools**
    * Hashcat
    * John the Ripper
- *
+ * **WiFi Hacking Tools**
+   * airmon-ng
+   * airodump-ng
+   * aircrack-ng
+   * naive-hashcat
+
+ * **Misc Tools**
+   * MetaSploit Framework
    
 
 ## Web Application Fundamentals
