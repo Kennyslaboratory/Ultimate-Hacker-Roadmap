@@ -47,7 +47,17 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 ## Mobile Application Hacking
  * Mobile OWASP Top 10
- 
+  * Improper Platform Usage
+  * Insecure Data Storage
+  * Insecure Communication
+  * Insecure Authentication
+  * Insufficient Cryptography
+  * Insecure Authorization
+  * Client Code Quality
+  * Code Tampering
+  * Reverse Engineering
+  * Extraneous Functionality
+
  
 
 ## Advanced Web Application Security
