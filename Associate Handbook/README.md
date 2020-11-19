@@ -38,9 +38,9 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 ## Reverse Engineering
  * **Binary Fundamentals**
    * CPU Registers
-    * Intruction Pointer
-    * Stack Pointer
-    * Base Pointer
+     * Intruction Pointer
+     * Stack Pointer
+     * Base Pointer
  
  * **Modern Binary Protection Techniques**
   * OS-Level Protections
