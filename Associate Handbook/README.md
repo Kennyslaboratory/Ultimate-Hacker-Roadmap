@@ -55,8 +55,9 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
        * Random canaries
        * Random XOR Canaries
        * Terminator Canaries
-   * Isolated Heaps _(MS14-035)_
-   * Microsoft's MemoryProtection _(MS14-037)_
+     * SafeSEH
+     * Isolated Heaps _(MS14-035)_
+     * Microsoft's MemoryProtection _(MS14-037)_
   
  * **Binary Hacking Techniques**
  
