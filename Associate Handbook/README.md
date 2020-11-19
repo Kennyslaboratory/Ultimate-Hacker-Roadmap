@@ -64,11 +64,11 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 ## Mobile Fundamentals
  * Mobile Communications
-  * SIM Card
-  * LTE
-  * 3G
-  * 4G
-  * 5G
+   * SIM Card
+   * LTE
+   * 3G
+   * 4G
+   * 5G
  * Mobile Data
  * Rooting
  * Jailbreaking
