@@ -69,7 +69,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * 3G
    * 4G
    * 5G
- * Mobile Data
+ * Mobile Data Storage
  * Rooting
  * Jailbreaking
  * APKs
