@@ -43,20 +43,20 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * Base Pointer
  
  * **Modern Binary Protection Techniques**
-  * OS-Level Protections
-    * NX-Bit _(DEP)_
-    * ASLR
-    * CFI _(CFG & RFG)_
-      * Code-Pointer Separation
-      * Code-Pointer Integrity
-      * Vtable Pointer Verification
-  * Compile-Time Protections
-    * Stack Canaries
-      * Random canaries
-      * Random XOR Canaries
-      * Terminator Canaries
-  * Isolated Heaps _(MS14-035)_
-  * Microsoft's MemoryProtection _(MS14-037)_
+   * OS-Level Protections
+     * NX-Bit _(DEP)_
+     * ASLR
+     * CFI _(CFG & RFG)_
+       * Code-Pointer Separation
+       * Code-Pointer Integrity
+       * Vtable Pointer Verification
+   * Compile-Time Protections
+     * Stack Canaries
+       * Random canaries
+       * Random XOR Canaries
+       * Terminator Canaries
+   * Isolated Heaps _(MS14-035)_
+   * Microsoft's MemoryProtection _(MS14-037)_
   
  * **Binary Hacking Techniques**
  
@@ -76,7 +76,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 
 ## Mobile Application Security
- * Mobile OWASP Top 10
+ * **Mobile OWASP Top 10**
    * Improper Platform Usage
    * Insecure Data Storage
    * Insecure Communication
