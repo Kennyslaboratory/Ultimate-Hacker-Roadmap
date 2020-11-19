@@ -21,3 +21,36 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
   
 -------
 # Table of Contents
+## Advanced Penetration Testing Tools
+ * Reverse Engineering Tools
+ 
+ * Mobile Application Hacking Tools
+
+
+## Advanced Network Security
+
+
+
+## C/C++ Programming Essentials
+
+
+
+## Reverse Engineering
+ * Binary Fundamentals
+ 
+ * Binary Hacking
+
+
+## Mobile Application Fundamentals
+
+
+
+## Mobile Application Hacking
+ * Mobile OWASP Top 10
+ 
+ 
+
+## Advanced Web Application Security
+ * Web Sockets
+ * Bypassing Modern XSS Protections
+ 
