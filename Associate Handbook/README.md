@@ -22,9 +22,9 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 -------
 # Table of Contents
 ## Advanced Penetration Testing Tools
- * Reverse Engineering Tools
+ * **Reverse Engineering Tools**
  
- * Mobile Application Hacking Tools
+ * **Mobile Application Hacking Tools**
 
 
 ## Advanced Network Security
@@ -36,27 +36,57 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 
 ## Reverse Engineering
- * Binary Fundamentals
+ * **Binary Fundamentals**
+  * CPU Registers
+   * Intruction Pointer
+   * Stack Pointer
+   * Base Pointer
  
- * Binary Hacking
+ * **Modern Binary Protection Techniques**
+  * OS-Level Protections
+   * NX-Bit _(DEP)_
+   * ASLR
+   * CFI _(CFG)_
+    * Code-Pointer Separation
+    * Code-Pointer Integrity
+    * Vtable Pointer Verification
+  * Compile-Time Protections
+  * Stack Canaries
+   * Random canaries
+   * Random XOR Canaries
+   * Terminator Canaries
+  * Isolated Heaps _(MS14-035)_
+  * Microsoft's MemoryProtection _(MS14-037)_
+  
+ * **Binary Hacking Techniques**
+ 
 
 
-## Mobile Application Fundamentals
+## Mobile Fundamentals
+ * Mobile Communications
+  * SIM Card
+  * LTE
+  * 3G
+  * 4G
+  * 5G
+ * Mobile Data
+ * Rooting
+ * Jailbreaking
+ * APKs
 
 
-
-## Mobile Application Hacking
+## Mobile Application Security
  * Mobile OWASP Top 10
-  * Improper Platform Usage
-  * Insecure Data Storage
-  * Insecure Communication
-  * Insecure Authentication
-  * Insufficient Cryptography
-  * Insecure Authorization
-  * Client Code Quality
-  * Code Tampering
-  * Reverse Engineering
-  * Extraneous Functionality
+   * Improper Platform Usage
+   * Insecure Data Storage
+   * Insecure Communication
+   * Insecure Authentication
+   * Insufficient Cryptography
+   * Insecure Authorization
+   * Client Code Quality
+   * Code Tampering
+   * Reverse Engineering
+   * Extraneous Functionality
 
  
 
