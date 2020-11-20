@@ -212,6 +212,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * OAuth2 Attacks
       * Open Redirect Token Theft
     * JSON Web Token CVEs
+    * Web Sockets
     * Prototype Pollution
 
 
