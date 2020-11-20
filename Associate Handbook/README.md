@@ -91,7 +91,6 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
  
 
-## Advanced Web Application Security
- * Web Sockets
+## Advanced Web Application Security Bypasses
  * Bypassing Modern XSS Protections
  
