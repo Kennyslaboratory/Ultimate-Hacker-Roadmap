@@ -24,7 +24,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 # Table of Contents
 
 ## Popular Penetration Testing Tools
- * Popular Penetration Testing Distros
+ * **Popular Penetration Testing Distros**
     * Kali Linux
     * Parrot
     * BlackArch
@@ -52,7 +52,27 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
    * airodump-ng
    * aircrack-ng
    * naive-hashcat
-
+ * **Reverse Engineering Tools**
+   * Linux-Based:
+     * gdb
+     * Radare2
+     * Hopper _($)_
+     * file
+     * strings
+     * strace
+     * ltrace
+     * objdump
+   * Windows-Based:
+     * OllyDBG
+     * WinDGB
+     * IAP Pro _($)_
+     * Windows SysInternals
+     * API Monitor
+ * **Programming Tools**
+   * Visual Studio
+   * Visual Studio Code
+   * Git
+   * Git BASH
  * **Misc Tools**
    * MetaSploit Framework
    
