@@ -53,7 +53,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
    * aircrack-ng
    * naive-hashcat
  * **Reverse Engineering Tools**
-   * Linux-Based:
+   * **Linux-Based:**
      * gdb
      * Radare2
      * Hopper _($)_
@@ -62,7 +62,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
      * strace
      * ltrace
      * objdump
-   * Windows-Based:
+   * **Windows-Based:**
      * OllyDBG
      * WinDGB
      * IAP Pro _($)_
@@ -78,16 +78,21 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
    
 
 ## Web Application Fundamentals
-  * HTML
+  * **HTML**
     * MetaTags
     * Forms
     * Attributes
     * iFrames
-  * CSS
+  * **CSS**
+    * **CSS Frameworks:**
+      * Bootstrap
+      * Google Material
     * Stylesheet Subresource Integrity
-  * JavaScript
+  * **JavaScript**
     * JavaScript Syntax Fundamentals
-    * XMLHttpRequest()
+      * Function Prototyping
+      * XMLHttpRequest()
+      * JSON _(Data Serialization)_
     * jQuery _(Basic Familiarity)_
     * JavaScript Frameworks _(Basic Familiarity)_
       * Angular
@@ -95,55 +100,61 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
       * React
       * Vue
     * JavaScript Subresource Integrity
-  * Same-Origin Policy _(SOP)_
-  * CORS
+  * **Same-Origin Policy _(SOP)_**
+  * **CORS**
     * Preflight Requests
-  * Content Deliver Netowrks _(CDNs)_
-  * MVC Design Pattern
+  * **Content Deliver Netowrks _(CDNs)_**
+  * **MVC Design Pattern**
     * Models
     * Views
     * Controllers
-  * HTTP Headers
-    * Most Important HTTP Headers
-      * User-Agent
-      * Host
-      * Cookie
-      * Authorization
-      * Content-Type _(MIME Types)_
-      * Transfer-Encoding
-      * Accept-Encoding
-      * Upgrade
-      * CORS Headers
-        * Origin
-        * Access-Control-Allow-Origin
-        * Access-Control-Allow-Credentials
-        * Access-Control-Request-Method
-        * Access-Control-Request-Headers
-      * X-Csrf-Token
-  * HTTP Requests
+  * **HTTP Headers**
+    * User-Agent
+    * Host
+    * Cookie
+    * Authorization
+    * Content-Type _(MIME Types)_
+    * Transfer-Encoding
+    * Accept-Encoding
+    * Upgrade
+    * **CORS Headers**
+      * Origin
+      * Access-Control-Allow-Origin
+      * Access-Control-Allow-Credentials
+      * Access-Control-Request-Method
+      * Access-Control-Request-Headers
+    * X-Csrf-Token
+  * **HTTP Requests**
     * GET
     * POST
     * PUT
     * DELETE
     * OPTIONS
-  * Session Management
-    * Cookies
+  * **Session Management**
+    * **Cookies**
       * Cookie Flags / Cookie Prefixes
         * HttpOnly
         * HostOnly
         * Secure
         * Same-Site
         * Expires
-    * 
- * Database Essentials
-   * SQL
-     * SQL DBMS _(Basic Familiarity)_
+    * **JSON Web Tokens _(JWT)_**
+      * JWS vs. JWE
+        * JWT Header
+          * alg:
+          * typ:
+        * JWT Payload
+        * JWT Signature
+      * Claims
+ * **Database Essentials**
+   * **SQL:**
+     * **SQL DBMS:** _(Basic Familiarity)_
        * MySQL
        * SQLite
        * Microsoft SQL
        * PostgreSQL
        * Oracle DB
-     * SQL Syntax Basics
+     * **SQL Syntax Basics:**
        * USE
        * SELECT
          * WHERE
@@ -152,8 +163,8 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
        * UPDATE
        * DROP
        * DELETE
-   * NoSQL
-     * NoSQL DBMS _(Basic Familiarity)_
+   * **NoSQL:**
+     * **NoSQL DBMS:** _(Basic Familiarity)_
        * Redis
        * MongoDB
        * Apache CouchDB
@@ -161,33 +172,38 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
           * AWS DynomoDB
           * GCP DataStore
           * Azure CosmosDB
-     * NoSQL Syntax Basics
+     * **NoSQL Syntax Basics:**
       * 
 
 ## Web Application Vulnerabilities
-  * OWASP Top 10
-    * Injection
-      * SQL Injection
-      * NoSQL Injection
-      * CMD Injection
-      * LDAP Injection
-    * Broken Authentication
-    * Sensitive Data Exposure
-    * XXE
+  * **OWASP Top 10:**
+    * **Injection**
+      * **SQL Injection:**
+        * Error-Based
+        * UNION-Based
+        * Blind
+        * Second-Order SQL Injection
+      * **NoSQL Injection**
+        * JavaScript Injection
+      * **CMD Injection**
+      * **LDAP Injection**
+    * **Broken Authentication**
+    * **Sensitive Data Exposure**
+    * **XXE**
       * XXE-OOB
-    * Broken Access Controls
-    * Security Misconfigurations
-    * XSS
+    * **Broken Access Controls**
+    * **Security Misconfigurations**
+    * **XSS**
       * Reflected
       * Stored
       * DOM-XSS
-    * Insecure Deserialization
+    * **Insecure Deserialization**
       * Java
       * PHP
       * .NET
-    * Using Components with Known Vulnerabilities
-    * Insufficient Logging & Monitoring
-  * Advanced Application Attacks
+    * **Using Components with Known Vulnerabilities**
+    * **Insufficient Logging & Monitoring**
+  * **Modern Application Attacks:**
     * HTTP Response Splitting
     * HTTP Request Smuggling
     * Cache Posioning
