@@ -24,6 +24,10 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 # Table of Contents
 
 ## Popular Penetration Testing Tools
+ * Popular Penetration Testing Distros
+    * Kali Linux
+    * Parrot
+    * BlackArch
  * **Web Applications Tools**
    * BurpSuite
    * WPscan
@@ -204,7 +208,6 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 ## Linux Essentials
   * Linux Distributions
     * Debian vs. RedHat
-    * Popular Penetration Testing Distros
   * Linux CLI Essentials
     * System Management
     * Installing Software
@@ -212,6 +215,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * Inspecting Logs
   * Linux Data Exfilration
     * /tmp
+    * /home
     * /etc/passwd
     * /etc/shadow
     * ~/.ssh/id_rsa
