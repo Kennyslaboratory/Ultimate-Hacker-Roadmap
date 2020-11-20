@@ -71,6 +71,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
  * **Programming Tools**
    * Visual Studio
    * Visual Studio Code
+   * Pycharm
    * Git
    * Git BASH
  * **Misc Tools**
