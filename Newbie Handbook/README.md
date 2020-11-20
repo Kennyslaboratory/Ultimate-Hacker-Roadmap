@@ -174,8 +174,13 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
           * GCP DataStore
           * Azure CosmosDB
      * **NoSQL Syntax Basics:**
-      * 
-
+      * ...
+   * **Content Management Systems** _(CMS)_
+    * WordPress
+    * Drupal
+    * Joomla
+    * Django
+    
 ## Web Application Vulnerabilities
   * **OWASP Top 10:**
     * **Injection**
@@ -209,6 +214,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * HTTP Request Smuggling
     * Cache Posioning
     * CORS Misconfigurations
+    * Server-Side Template Injection 
     * OAuth2 Attacks
       * Open Redirect Token Theft
     * JSON Web Token CVEs
