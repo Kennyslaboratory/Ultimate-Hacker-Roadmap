@@ -17,6 +17,7 @@ Now it is time to specialize into something that sets you apart from the crowd. 
   
 -------
 # Table of Contents
+It's not necessary to know everything here to advance your career into becoming a Senior.  I recommend you pick 1 or 2 that interests the most and master them. 
 
 ---------------------------
 ## AWS Cloud Security
