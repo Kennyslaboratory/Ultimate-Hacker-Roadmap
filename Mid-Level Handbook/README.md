@@ -19,11 +19,23 @@ Now it is time to specialize into something that sets you apart from the crowd. 
 # Table of Contents
 
 ## AWS Cloud Security Essentials
+ * **Protecting AWS Access Keys**
+   * Best Practices:
+    * Removing Root Access Keys
+    * Instance Profiles
+    * Never embed keys into mobile apps _(use AWS Cognito)_
+   * Tools:
+     * aws-vault
+     * AWS Secrets Manager
+     * Enable 2FA Device _(AWS IAM)_
+     
  * **AWS SDKs**
    * Boto3
    
  * **Securing AWS Resources**
    * Security Groups
+    * Outbound Rules
+    * Inbound Rules
    * AWS WAF
      * Checkpoints
 
@@ -48,8 +60,12 @@ Now it is time to specialize into something that sets you apart from the crowd. 
      * Snapshots
  * **Identity, Authentication, and Authorization**
    * AWS IAM
+    * Users
+    * Groups
+    * 
   
  * **Logging, Monitoring, and Auditing**
+   * AWS Trusted Advisor
    * AWS CloudWatch
    * AWS CloudTrail
    * AWS Config
@@ -63,3 +79,13 @@ Now it is time to specialize into something that sets you apart from the crowd. 
    * AWS Fargate
    * AWS EKS
     * Kubernetes
+ * Other Services
+  * AWS Kenisis
+ 
+## AWS Penetration Testing
+ * Popular AWS Hacking Tools:
+   * dnscat2
+ * Enumerating IAM Roles
+ * SSRF
+   * Stealing meta-data
+ 
