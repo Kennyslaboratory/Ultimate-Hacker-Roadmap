@@ -13,6 +13,8 @@ You're skilled enough to be tasked with work that invovles:
   * Code Review
   * Binary Debugging
   
+Now it is time to specialize into something that sets you apart from the crowd.  Whether you'd like your specialty to be Hardware, Firmware, Vechicles, IoT, Malware Analysis, or Cloud Infrastructure.  You are finally at a level where you have options and your company will likely pay for and advocate your growth as you develop into a Senior.  Below are a list of specialized technologies and concepts that you might find interesting.
+  
 -------
 # Table of Contents
 
