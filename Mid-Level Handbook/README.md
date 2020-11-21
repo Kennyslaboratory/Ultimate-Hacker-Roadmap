@@ -28,7 +28,7 @@ Now it is time to specialize into something that sets you apart from the crowd. 
      
  * **Securing Communications**
    * Confidentality
-     * -
+     * ...
    * Integrity
      * AWS SigV4
    * Availability
@@ -41,7 +41,7 @@ Now it is time to specialize into something that sets you apart from the crowd. 
      * AWS KMS
      * S3 Bucket Permissions
    * Integrity
-     * -
+     * ...
    * Availabity
      * Snapshots
  * **Identity, Authentication, and Authorization**
