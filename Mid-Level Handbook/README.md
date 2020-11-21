@@ -17,7 +17,7 @@ Now it is time to specialize into something that sets you apart from the crowd. 
   
 -------
 # Table of Contents
-It's not necessary to know everything here to advance yourself into a Senior, there's likely a lot of things missing that you'll need to research yourself.  I recommend you pick 1 or 2 that interests the most and master them. Please message me if you see that I've miss anything of importance.
+It's not necessary to know everything here to advance yourself into a Senior, there's likely a lot of things missing that you'll need to research yourself.  I recommend you pick 1 or 2 domains that interests the most and master them. Please message me if you see that I've miss anything of importance.
 
 ---------------------------
 ## AWS Cloud Security
