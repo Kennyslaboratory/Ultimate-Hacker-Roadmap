@@ -54,3 +54,12 @@ Now it is time to specialize into something that sets you apart from the crowd. 
    * AWS CloudTrail
    * AWS Config
    * AWS Artitfact
+
+
+## AWS Serverless Infrastructure
+ * AWS Serverless Services:
+   * AWS API Gateway
+   * AWS LAMBDA
+   * AWS Fargate
+   * AWS EKS
+    * Kubernetes
