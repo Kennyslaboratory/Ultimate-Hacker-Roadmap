@@ -17,7 +17,7 @@ Now it is time to specialize into something that sets you apart from the crowd. 
   
 -------
 # Table of Contents
-It's not necessary to know everything here to advance yourself into a Senior, there's likely a lot of things missing that you'll need to research yourself.  I recommend you pick 1 or 2 domains that interests the most and master them. Please message me if you see that I've miss anything of importance.
+It's not necessary to know everything here to advance yourself into a Senior, there's likely a lot of things missing that you'll need to research yourself.  I recommend you pick 1 or 2 domains that interest you the most and master them. Please message me with any feedback you have about this list so I may improve it.
 
 ---------------------------
 ## AWS Cloud Security
@@ -41,8 +41,8 @@ It's not necessary to know everything here to advance yourself into a Senior, th
    
  * **Securing AWS Resources**
    * Security Groups
-     * Outbound Rules
      * Inbound Rules
+     * Outbound Rules
    * AWS WAF
      * Checkpoints
 
@@ -64,7 +64,11 @@ It's not necessary to know everything here to advance yourself into a Senior, th
    * Integrity
      * ...
    * Availabity
-     * Snapshots
+     * S3 Versioning
+     * S3 Object lifecycle Management
+       * Transition Actions
+       * Expiration Actions
+       
  * **Identity, Authentication, and Authorization**
    * AWS IAM
     * Users
@@ -73,6 +77,10 @@ It's not necessary to know everything here to advance yourself into a Senior, th
   
  * **Logging, Monitoring, and Auditing**
    * AWS Trusted Advisor
+     * Check-Level Status
+       * Okay-State
+       * Warning-State
+       * Error-State
    * AWS CloudWatch
    * AWS CloudTrail
    * AWS Config
