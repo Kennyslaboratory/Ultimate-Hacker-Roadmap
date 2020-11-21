@@ -26,12 +26,20 @@ It's not necessary to know everything here to advance yourself into a Senior, th
  * Popular Cloud Hacking Tools:
    * dnscat2
  * Attacks:
-   * 
+   * Stealing AWS Access Keys
+     * SSRF
+     * Exploiting Deserialization Bugs
+     * Command Injection
+       * Printing environment variables
+     * Malicious File Upload
+       * ImageTragick
+     
 ## AWS Cloud Security
  * **Protecting AWS Access Keys**
    * Best Practices:
      * Removing Root Access Keys
      * Using IAM Instance Profiles
+     * Enable IMDSv2 Tokens
      * Never embed keys into mobile apps _(use AWS Cognito)_
    * Tools:
      * aws-vault
