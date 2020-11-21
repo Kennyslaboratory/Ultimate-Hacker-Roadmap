@@ -20,6 +20,8 @@ Now it is time to specialize into something that sets you apart from the crowd. 
 It's not necessary to know everything here to advance yourself into a Senior, there's likely a lot of things missing that you'll need to research yourself.  I recommend you pick 1 or 2 domains that interest you the most and master them. Please message me with any feedback you have about this list so I may improve it.
 
 ---------------------------
+
+# Domain 1: Cloud Security
 ## AWS Cloud Security
  * **Protecting AWS Access Keys**
    * Best Practices:
