@@ -45,6 +45,10 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * aws-vault
      * AWS Secrets Manager
      * MFA-protected API access _(IAM setting)_
+       * "aws:MultiFactorAuthPresent": "true"
+         * MFA protecting cross-account delegation
+         * MFA protecting instance termination, etc.
+         * MFA protecting resources that have resource-based policies
      
  * **Popular AWS SDKs**
    * Boto3 _(Python)_
