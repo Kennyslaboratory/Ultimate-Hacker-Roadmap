@@ -31,8 +31,13 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * AWS Secrets Manager
      * Enable 2FA Device _(AWS IAM)_
      
- * **AWS SDKs**
-   * Boto3
+ * **Popular AWS SDKs**
+   * Boto3 _(Python)_
+     * aws configure
+       * ~/.aws/credentials
+     * boto3.Session()
+     * boto3.resource()
+     * boto3.client()
    
  * **Securing AWS Resources**
    * Security Groups
