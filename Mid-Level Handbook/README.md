@@ -47,9 +47,10 @@ Now it is time to specialize into something that sets you apart from the crowd. 
    * Availabity
      * Snapshots
  * **Identity, Authentication, and Authorization**
-  * AWS IAM
+   * AWS IAM
   
  * **Logging, Monitoring, and Auditing**
    * AWS CloudWatch
+   * AWS CloudTrail
    * AWS Config
    * AWS Artitfact
