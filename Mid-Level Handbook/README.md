@@ -19,24 +19,32 @@ Now it is time to specialize into something that sets you apart from the crowd. 
 # Table of Contents
 
 ## AWS Cloud Security Essentials
- * AWS SDKs
+ * **AWS SDKs**
    * Boto3
- * Securing AWS Resources
+   
+ * **Securing AWS Resources**
    * AWS WAF
      * Checkpoints
- * Securing Communications
-   * AWS Shield _(DDoS Protection)_
-     * Standard
-     * Advanced
-   * AWS SigV4
- * Securing Data-At-Rest
+     
+ * **Securing Communications**
+   * Confidentality
+     * -
+   * Integrity
+     * AWS SigV4
+   * Availability
+     * AWS Shield _(DDoS Protection)_
+       * Standard
+       * Advanced
+   
+ * **Securing Data-At-Rest**
    * Confidentality
      * AWS KMS
      * S3 Bucket Permissions
    * Integrity
-     * 
+     * -
    * Availabity
      * Snapshots
- * Identity, Authentication, and Authorization
- * Logging & Monitoring
+ * **Identity, Authentication, and Authorization**
+ 
+ * **Logging & Monitoring**
    * AWS CloudWatch
