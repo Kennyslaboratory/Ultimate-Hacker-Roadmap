@@ -22,7 +22,7 @@ Now it is time to specialize into something that sets you apart from the crowd. 
  * **Protecting AWS Access Keys**
    * Best Practices:
      * Removing Root Access Keys
-     * Instance Profiles
+     * Using IAM Instance Profiles
      * Never embed keys into mobile apps _(use AWS Cognito)_
    * Tools:
      * aws-vault
