@@ -30,8 +30,13 @@ Now it is time to specialize into something that sets you apart from the crowd. 
      * Advanced
    * AWS SigV4
  * Securing Data-At-Rest
-   * AWS KMS Service
-   * S3 Bucket Permissions
+   * Confidentality
+     * AWS KMS
+     * S3 Bucket Permissions
+   * Integrity
+     * 
+   * Availabity
+     * Snapshots
  * Identity, Authentication, and Authorization
  * Logging & Monitoring
    * AWS CloudWatch
