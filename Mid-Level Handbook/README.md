@@ -68,12 +68,13 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * S3 Object lifecycle Management
        * Transition Actions
        * Expiration Actions
+       * LifeCycle Scopes
        
  * **Identity, Authentication, and Authorization**
    * AWS IAM
-    * Users
-    * Groups
-    * 
+     * Users
+     * Groups
+     * 
   
  * **Logging, Monitoring, and Auditing**
    * AWS Trusted Advisor
