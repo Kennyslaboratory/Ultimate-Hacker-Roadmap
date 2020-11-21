@@ -27,7 +27,7 @@ Now it is time to specialize into something that sets you apart from the crowd. 
  * Securing Communications
    * AWS Shield _(DDoS Protection)_
      * Standard
-     * Advanced
+     * Advanced
    * AWS SigV4
  * Securing Data-At-Rest
    * AWS KMS Service
