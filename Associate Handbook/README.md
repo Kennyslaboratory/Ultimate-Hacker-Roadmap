@@ -30,24 +30,6 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 ## Advanced Network Security
 
 
-## AWS Cloud Security Essentials
- * AWS SDKs
-   * Boto3
- * Securing AWS Resources
-   * AWS WAF
-     * Checkpoints
- * Securing Communications
-   * AWS Shield _(DDoS Protection)_
-     * Standard
-     * Advanced
-   * AWS SigV4
- * Securing Data-At-Rest
-   * AWS KMS Service
-   * S3 Bucket Permissions
- * Identity, Authentication, and Authorization
- * Logging & Monitoring
-   * AWS CloudWatch
-
 
 ## C/C++ Programming Essentials
 
