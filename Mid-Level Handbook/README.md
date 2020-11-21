@@ -18,7 +18,8 @@ Now it is time to specialize into something that sets you apart from the crowd. 
 -------
 # Table of Contents
 
-## AWS Cloud Security Essentials
+---------------------------
+## AWS Cloud Security
  * **Protecting AWS Access Keys**
    * Best Practices:
      * Removing Root Access Keys
@@ -72,7 +73,7 @@ Now it is time to specialize into something that sets you apart from the crowd. 
    * AWS Artitfact
 
 
-## AWS Serverless Infrastructure
+## Mastering AWS Serverless
  * AWS Serverless Services:
    * AWS API Gateway
    * AWS LAMBDA
