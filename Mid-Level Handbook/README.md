@@ -15,3 +15,21 @@ You're skilled enough to be tasked with work that invovles:
   
 -------
 # Table of Contents
+
+## AWS Cloud Security Essentials
+ * AWS SDKs
+   * Boto3
+ * Securing AWS Resources
+   * AWS WAF
+     * Checkpoints
+ * Securing Communications
+   * AWS Shield _(DDoS Protection)_
+     * Standard
+     * Advanced
+   * AWS SigV4
+ * Securing Data-At-Rest
+   * AWS KMS Service
+   * S3 Bucket Permissions
+ * Identity, Authentication, and Authorization
+ * Logging & Monitoring
+   * AWS CloudWatch
