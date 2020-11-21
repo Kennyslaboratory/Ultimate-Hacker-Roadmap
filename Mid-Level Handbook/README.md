@@ -22,6 +22,11 @@ It's not necessary to know everything here to advance yourself into a Senior, th
 ---------------------------
 
 # Domain 1: Cloud Security
+## Cloud-Based Penetration Testing
+ * Popular Cloud Hacking Tools:
+   * dnscat2
+ * Attacks:
+   * 
 ## AWS Cloud Security
  * **Protecting AWS Access Keys**
    * Best Practices:
@@ -76,7 +81,6 @@ It's not necessary to know everything here to advance yourself into a Senior, th
    * AWS IAM
      * Users
      * Groups
-     * 
   
  * **Logging, Monitoring, and Auditing**
    * AWS Trusted Advisor
@@ -100,10 +104,4 @@ It's not necessary to know everything here to advance yourself into a Senior, th
  * Other Services
   * AWS Kenisis
  
-## AWS Penetration Testing
- * Popular AWS Hacking Tools:
-   * dnscat2
- * Enumerating IAM Roles
- * SSRF
-   * Stealing meta-data
  
