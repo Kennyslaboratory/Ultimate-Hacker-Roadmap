@@ -23,8 +23,10 @@ Now it is time to specialize into something that sets you apart from the crowd. 
    * Boto3
    
  * **Securing AWS Resources**
+   * Security Groups
    * AWS WAF
      * Checkpoints
+
      
  * **Securing Communications**
    * Confidentality
