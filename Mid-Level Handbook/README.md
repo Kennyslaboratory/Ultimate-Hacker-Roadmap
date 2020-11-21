@@ -44,7 +44,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
    * Tools:
      * aws-vault
      * AWS Secrets Manager
-     * Enable 2FA Device _(AWS IAM)_
+     * MFA-protected API access _(IAM setting)_
      
  * **Popular AWS SDKs**
    * Boto3 _(Python)_
