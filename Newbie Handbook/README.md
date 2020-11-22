@@ -220,6 +220,9 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * JSON Web Token CVEs
     * Web Sockets
     * Prototype Pollution
+  * **Other Attacks:**
+    * Directory Traversal
+    * Local File Inclusion
 
 
 ## Advanced Networking Essentials
