@@ -27,6 +27,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
  * **Popular Penetration Testing Distros**
     * Kali Linux
     * Parrot
+    * BackBox
     * BlackArch
  * **Web Applications Tools**
    * BurpSuite
