@@ -68,6 +68,10 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
      * WinDGB
      * IAP Pro _($)_
      * Windows SysInternals
+       * ListDLLs
+       * Procmon
+       * Portmon
+       * ProcDump
      * API Monitor
  * **Programming Tools**
    * Visual Studio
