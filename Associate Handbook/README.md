@@ -33,26 +33,33 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 
 ## C/C++ Programming Essentials
- * Strings
- * Buffers
-   * Arrays
- * Pointers
-   * Smart Pointers
-   * Linked-Listed
  * Object-Oriented Programming
    * Encapsulation
    * Abstraction
    * Inheritance
    * Polymorphism
+ * Buffers
+   * Strings _(Behavior in memory)_
+   * Arrays
+ * Pointers
+   * Smart Pointers
+   * Linked-Listed
  * Type Casting
  * References
 
 ## Reverse Engineering
  * **Binary Fundamentals**
+   * The Stack
+     * Stack Frames
+       * Function Recursion
+   * The Heap
+     * Allocating Memory
+     * Freeing Memory
+     * Garbage Collections
    * CPU Registers
-     * Intruction Pointer
-     * Stack Pointer
-     * Base Pointer
+     * Intruction Pointer _(EIP / RIP)_
+     * Stack Pointer _(ESP / RSP)_
+     * Base Pointer _(EBP / RBP)_
  
  * **Modern Binary Protection Techniques**
    * OS-Level Protections
