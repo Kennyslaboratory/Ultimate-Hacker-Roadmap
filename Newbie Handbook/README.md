@@ -94,6 +94,9 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
       * Bootstrap
       * Google Material
     * Stylesheet Subresource Integrity
+  * **XML**
+    * SVG Images
+    * SAML _(Basic Familiarity)_
   * **JavaScript**
     * JavaScript Syntax Fundamentals
       * Function Prototyping
