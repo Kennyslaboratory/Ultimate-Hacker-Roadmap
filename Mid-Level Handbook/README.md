@@ -28,9 +28,14 @@ It's not necessary to know everything here to advance yourself into a Senior, th
  * Attacks:
    * Stealing AWS Access Keys
      * SSRF
+       * XXE-OOB
+         * Documents with XXE payload
+         * PDFs with XXE playload
+       * SVG with Embedded links
      * Exploiting Deserialization Bugs
      * Command Injection
-       * Printing environment variables
+       * Uploading filenames with code paramenters
+         * Printing environment variables
      * Malicious File Upload
        * ImageTragick
      
@@ -38,11 +43,15 @@ It's not necessary to know everything here to advance yourself into a Senior, th
  * **Protecting AWS Access Keys**
    * Best Practices:
      * Removing Root Access Keys
-     * Using IAM Instance Profiles
+     * Never hardcode AWS keys into code
+       * _Keys can be leaked via public repositiories like Github._
+     * Avoid storing AWS keys into environment variables
+     * Use IAM Instance Profiles to talk between client and APIs
      * Enable IMDSv2 Tokens
      * Never embed keys into mobile apps _(use AWS Cognito)_
    * Tools:
      * aws-vault
+       * Temporary access keys
      * AWS Secrets Manager
      * MFA-protected API access _(IAM setting)_
        * "aws:MultiFactorAuthPresent": "true"
