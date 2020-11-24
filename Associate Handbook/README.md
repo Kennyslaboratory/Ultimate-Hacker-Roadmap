@@ -33,8 +33,19 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 
 ## C/C++ Programming Essentials
-
-
+ * Strings
+ * Buffers
+   * Arrays
+ * Pointers
+   * Smart Pointers
+   * Linked-Listed
+ * Object-Oriented Programming
+   * Encapsulation
+   * Abstraction
+   * Inheritance
+   * Polymorphism
+ * Type Casting
+ * References
 
 ## Reverse Engineering
  * **Binary Fundamentals**
