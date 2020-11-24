@@ -86,7 +86,8 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
        * Random canaries
        * Random XOR Canaries
        * Terminator Canaries
-     * SafeSEH
+     * SafeSEH & SEHOP
+       * Zeroing CPU Registers
      * Isolated Heaps _(MS14-035)_
      * Microsoft's MemoryProtection _(MS14-037)_
   
