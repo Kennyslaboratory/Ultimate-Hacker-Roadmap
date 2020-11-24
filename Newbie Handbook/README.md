@@ -231,6 +231,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
   * **Other Attacks:**
     * Directory Traversal
     * Local File Inclusion
+      * Log Poisoning
 
 
 ## Advanced Networking Essentials
