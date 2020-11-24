@@ -112,7 +112,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
   * **Same-Origin Policy _(SOP)_**
   * **CORS**
     * Preflight Requests
-  * **Content Deliver Netowrks _(CDNs)_**
+  * **Content Deliver Networks _(CDNs)_**
   * **MVC Design Pattern**
     * Models
     * Views
