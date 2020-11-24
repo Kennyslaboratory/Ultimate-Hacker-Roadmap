@@ -264,13 +264,17 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * System Management
     * Installing Software
     * Networking
+      * nmcli
+      * nmtui
     * Inspecting Logs
+      * journelctl
+      * /var/log
     * Environment Variables
       * env
   * Linux Data Exfilration _(Post exploitation)_
     * /tmp
     * /home
-    * /log
+    * /var/log
     * ~/.bash_history
     * Check Environment Variables
       * env
