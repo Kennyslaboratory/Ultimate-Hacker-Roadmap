@@ -23,7 +23,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 # Table of Contents
 ## Advanced Penetration Testing Tools
  * **More Reverse Engineering Tools**
-
+  * Flare VM
 
  * **Mobile Application Hacking Tools**
 
@@ -33,7 +33,14 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 
 ## C/C++ Programming Essentials
+ * Variable Types
+   * int
+   * double
+   * float
+   * char
  * stdin & stdout
+ * File Descriptors
+ * Sockets
  * Signed vs. Unsigned
    * Twos-Compliment
  * Object-Oriented Programming
@@ -42,8 +49,8 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * Inheritance
    * Polymorphism
  * Buffers
-   * Strings _(Behavior in memory)_
    * Arrays
+   * Strings _(Behavior in memory)_
  * Pointers
    * Smart Pointers
    * Linked-Listed
@@ -53,6 +60,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 ## Reverse Engineering
  * **Binary Fundamentals**
+   * Endianness
    * The Stack
      * Stack Frames
        * Function Recursion
@@ -84,6 +92,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
   
  * **Binary Hacking Techniques**
    * Stack-Based Buffer Overflow
+     * Return Pointer Overwrite
      * NOP Sleds
      * Off-By-One Error
    * SEH-Based Buffer Overflow
