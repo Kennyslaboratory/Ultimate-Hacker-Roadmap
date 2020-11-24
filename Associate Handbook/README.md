@@ -33,6 +33,9 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 
 
 ## C/C++ Programming Essentials
+ * stdin & stdout
+ * Signed vs. Unsigned
+   * Twos-Compliment
  * Object-Oriented Programming
    * Encapsulation
    * Abstraction
@@ -44,6 +47,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
  * Pointers
    * Smart Pointers
    * Linked-Listed
+ * Vectors
  * Type Casting
  * References
 
