@@ -47,14 +47,17 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
     * Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9
   * 32bit CPUs
   * 64bit CPUs
-* MultiThreading vs. MultiProcessing
+  * MultiThreading vs. MultiProcessing
 * GPUs
   * Integrated vs. Discrete GPUs
   * Ray Tracing
   * GPU Memory
   * GPU Bandwidth
 * The Kernel _(Basic Understanding)_
-* Windows Features
+  * Physical Memory vs. Virtual Memory
+  * Kernel Space vs. User Space
+  * SYSCALLs
+* Basic Windows Features
   * Windows Compatability Mode
   * .NET _(Basic Understanding)_
   * Hyper-V _(Basic Understanding)_
@@ -62,14 +65,35 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
   * SMB _(Basic Understanding)_
 * Caching
 * Common File Exstentions
-  * .exe
-  * .dll
-  * .html
-  * .css
-  * .js
-  * .c
-  * .cpp
-  * .py
+  * Executables
+    * .exe
+    * .o
+    * .sh
+  * Library files
+    * .dll
+    * .so
+    * .lib
+  * Web files
+    * .html
+    * .php
+    * .css
+    * .js
+  * Image files
+    * .jpg
+    * .svg
+    * .png
+  * Document files
+    * .doc
+    * .txt
+    * .pdf
+  * Code files
+    * .c
+    * .cpp
+    * .py
+  * Key files
+    * .pub
+    * .pem
+    * .der
 * Encoding
   * Base64
   * ASCII
@@ -166,6 +190,7 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 * Password Policies
 * Least Previlage
 * VPN Tunneling _(Basic Understanding)_
+* Bastion Hosts
 * IPsec _(Basic Understanding)_
 * Digital Signatures _(Basic Understanding)_
 * Signature-Based Intrusion Prevention Systems
