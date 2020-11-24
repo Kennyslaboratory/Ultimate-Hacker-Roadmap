@@ -265,9 +265,16 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * Installing Software
     * Networking
     * Inspecting Logs
-  * Linux Data Exfilration
+    * Environment Variables
+      * env
+  * Linux Data Exfilration _(Post exploitation)_
     * /tmp
     * /home
+    * /log
+    * ~/.bash_history
+    * Check Environment Variables
+      * env
+      * printenv
     * /etc/passwd
     * /etc/shadow
     * ~/.ssh/id_rsa
