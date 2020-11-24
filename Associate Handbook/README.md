@@ -22,8 +22,9 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 -------
 # Table of Contents
 ## Advanced Penetration Testing Tools
- * **Reverse Engineering Tools**
- 
+ * **More Reverse Engineering Tools**
+
+
  * **Mobile Application Hacking Tools**
 
 
@@ -60,8 +61,14 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * Microsoft's MemoryProtection _(MS14-037)_
   
  * **Binary Hacking Techniques**
- 
-
+   * Stack-Based Buffer Overflow
+     * NOP Sleds
+     * Off-By-One Error
+   * SEH-Based Buffer Overflow
+   * Heap Exploitation
+     * Use-After-Free
+       * Danguling Pointers
+       * Type Confusion Attacks
 
 ## Mobile Fundamentals
  * Mobile Communications
