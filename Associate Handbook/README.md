@@ -23,7 +23,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 # Table of Contents
 ## Advanced Penetration Testing Tools
  * **More Reverse Engineering Tools**
-  * Flare VM
+   * Flare VM
 
  * **Mobile Application Hacking Tools**
 
