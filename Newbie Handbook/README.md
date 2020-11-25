@@ -264,12 +264,22 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 ## Linux Essentials
   * Linux Distributions
     * Debian vs. RedHat
+    * Debian-Based Distros
+      * Ubunutu
+        * Linux Mint
+      * Kali Linux
+      * ParrotOS
+    * RedHat
+        * RHEL _($)_
+        * CentOS
   * Linux CLI Essentials
     * System Management
     * Installing Software
     * Networking
       * nmcli
       * nmtui
+      * File Paths:
+        /etc/sysconfig/network-scripts/
     * Inspecting Logs
       * journelctl
       * /var/log
