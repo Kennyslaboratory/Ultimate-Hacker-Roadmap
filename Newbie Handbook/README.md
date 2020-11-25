@@ -184,10 +184,10 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
      * **NoSQL Syntax Basics:**
       * ...
    * **Content Management Systems** _(CMS)_
-    * WordPress
-    * Drupal
-    * Joomla
-    * Django
+      * WordPress
+      * Drupal
+      * Joomla
+      * Django
     
 ## Web Application Vulnerabilities
   * **OWASP Top 10:**
