@@ -25,12 +25,8 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
  * **More Reverse Engineering Tools**
    * Flare VM
    * Fuzzing
-     * Spike\
-       * generic_chunked
-       * generic_send_tcp
-       * generic_send_udp
-       * generic_web_server_fuzz
-       * generic_web_server_fuzz2
+     * SPIKE
+       * .spk
 
  * **Mobile Application Hacking Tools**
 
