@@ -42,7 +42,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      
 ## AWS Cloud Security
 #### Protecting AWS Access Keys
-   * Best Practices:
+   * **Best Practices:**
      * Removing Root Access Keys
      * Never hardcode AWS keys into code
        * _Keys can be leaked via public repositiories like Github._
@@ -50,7 +50,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * Use IAM Instance Profiles to talk between client and APIs
      * Enable IMDSv2 Tokens
      * Never embed keys into mobile apps _(use AWS Cognito)_
-   * Tools:
+   * **Tools:**
      * aws-vault
        * Temporary access keys
      * AWS Secrets Manager
