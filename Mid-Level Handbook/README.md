@@ -140,9 +140,16 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * Intermediate Representation
    * IR Optimizer
  * Just-In-Time Compilers _(JIT)_
-   * Profile-Guided Optimization
-   * Pseudo-Constant Propagation
-     * Dead Code Elimination
-   * Indirect-Virtual Function Inlining
+   * JIT Designs:
+     * Tracing JIT Design
+       * Profiling Phase
+       * Tracing Phase
+       * Optimizating Phase
+     * Method JIT Design
+   * JIT Features:
+     * Profile-Guided Optimization
+     * Pseudo-Constant Propagation
+       * Dead Code Elimination
+     * Indirect-Virtual Function Inlining
    
 
