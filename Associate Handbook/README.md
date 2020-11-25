@@ -23,10 +23,14 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 # Table of Contents
 ## Advanced Penetration Testing Tools
  * **More Reverse Engineering Tools**
-   * Flare VM
-   * Fuzzing
+   * Windows-Based Tools
+     * Flare VM
+   * Fuzzers
      * SPIKE
        * .spk
+       * generic_send_tcp
+       * generic_send_udp
+       * generic_chunked
 
  * **Mobile Application Hacking Tools**
 
@@ -80,7 +84,8 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * Intruction Pointer _(EIP / RIP)_
      * Stack Pointer _(ESP / RSP)_
      * Base Pointer _(EBP / RBP)_
- 
+     
+           
  * **Modern Binary Protection Techniques**
    * OS-Level Protections
      * NX-Bit _(DEP)_
@@ -101,6 +106,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
   
  * **Binary Hacking Techniques**
    * Stack-Based Buffer Overflow
+     * NULL Byte _(0x00)_
      * Return Pointer Overwrite
      * NOP Sleds
      * Off-By-One Error
