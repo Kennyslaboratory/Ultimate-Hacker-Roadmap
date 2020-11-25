@@ -125,4 +125,21 @@ It's not necessary to know everything here to advance yourself into a Senior, th
  * Other Services
   * AWS Kenisis
  
- 
+ -------------------
+# Domain 2: Exploit Development
+## Modern Technologies
+ * Ahead-Of-Time Compilers _(AOT)_
+    * Lexical Analyzer
+     * Token Streams
+   * Syntax Parser / Analyzer
+     * Abstract Syntax Tree
+   * IR Generator 
+     * Intermediate Representation
+   * IR Optimizer
+ * Just-In-Time Compilers _(JIT)_
+   * Profile-Guided Optimization
+   * Pseudo-Constant Propagation
+     * Dead Code Elimination
+   * Indirect-Virtual Function Inlining
+   
+
