@@ -132,7 +132,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
 # Domain 2: Exploit Development
 ## Modern Technologies
  * Ahead-Of-Time Compilers _(AOT)_
-    * Lexical Analyzer
+   * Lexical Analyzer
      * Token Streams
    * Syntax Parser / Analyzer
      * Abstract Syntax Tree
