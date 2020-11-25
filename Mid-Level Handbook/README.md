@@ -25,6 +25,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
 ## Cloud-Based Penetration Testing
 #### Popular Cloud Hacking Tools:
    * dnscat2
+   * Cloud Storage Tester
    
 #### Attacks:
    * Stealing AWS Access Keys
