@@ -47,7 +47,8 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * Never hardcode AWS keys into code
        * _Keys can be leaked via public repositiories like Github._
      * Avoid storing AWS keys into environment variables
-     * Use IAM Instance Profiles to talk between client and APIs
+     * Use IAM Instance Profiles to request resources
+       * Temporary Role Credentials
      * Enable IMDSv2 Tokens
      * Never embed keys into mobile apps _(use AWS Cognito)_
    * **Tools:**
