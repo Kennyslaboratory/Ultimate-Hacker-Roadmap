@@ -23,9 +23,10 @@ It's not necessary to know everything here to advance yourself into a Senior, th
 
 # Domain 1: Cloud Security
 ## Cloud-Based Penetration Testing
- * Popular Cloud Hacking Tools:
+#### Popular Cloud Hacking Tools:
    * dnscat2
- * Attacks:
+   
+#### Attacks:
    * Stealing AWS Access Keys
      * SSRF
        * XXE-OOB
@@ -40,7 +41,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
        * ImageTragick
      
 ## AWS Cloud Security
- * **Protecting AWS Access Keys**
+#### Protecting AWS Access Keys
    * Best Practices:
      * Removing Root Access Keys
      * Never hardcode AWS keys into code
@@ -59,7 +60,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
          * MFA protecting instance termination, etc.
          * MFA protecting resources that have resource-based policies
      
- * **Popular AWS SDKs**
+#### Popular AWS SDKs
    * Boto3 _(Python)_
      * aws configure
        * ~/.aws/credentials
@@ -67,7 +68,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * boto3.resource()
      * boto3.client()
    
- * **Securing AWS Resources**
+#### Securing AWS Resources
    * Security Groups
      * Inbound Rules
      * Outbound Rules
@@ -75,7 +76,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * Checkpoints
 
      
- * **Securing Communications**
+#### Securing Communications
    * Confidentality
      * ...
    * Integrity
@@ -85,7 +86,7 @@ It's not necessary to know everything here to advance yourself into a Senior, th
        * Standard
        * Advanced
    
- * **Securing Data-At-Rest**
+#### Securing Data-At-Rest
    * Confidentality
      * AWS KMS
      * S3 Bucket Permissions
@@ -98,12 +99,12 @@ It's not necessary to know everything here to advance yourself into a Senior, th
        * Expiration Actions
        * LifeCycle Scopes
        
- * **Identity, Authentication, and Authorization**
+#### Identity, Authentication, and Authorization
    * AWS IAM
      * Users
      * Groups
   
- * **Logging, Monitoring, and Auditing**
+#### Logging, Monitoring, and Auditing
    * AWS Trusted Advisor
      * Check-Level Status
        * Okay-State
@@ -115,8 +116,8 @@ It's not necessary to know everything here to advance yourself into a Senior, th
    * AWS Artitfact
 
 
-## Mastering AWS Serverless
- * AWS Serverless Services:
+## AWS Serverless
+ * Serverless Services:
    * AWS API Gateway
    * AWS LAMBDA
    * AWS Fargate
