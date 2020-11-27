@@ -80,6 +80,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * Allocating Memory
      * Freeing Memory
      * Garbage Collection
+     * Vtables
    * CPU Registers
      * Intruction Pointer _(EIP / RIP)_
      * Stack Pointer _(ESP / RSP)_
@@ -116,7 +117,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * SEH-Based Buffer Overflow
    * Heap Exploitation
      * Use-After-Free
-       * Danguling Pointers
+       * Dangling Pointers
        * Type Confusion Attacks
 
 ## Mobile Fundamentals
