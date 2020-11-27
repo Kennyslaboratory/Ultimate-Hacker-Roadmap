@@ -31,9 +31,13 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
        * generic_send_tcp
        * generic_send_udp
        * generic_chunked
+   * PwnTools
 
  * **Mobile Application Hacking Tools**
-
+  * iOS-Based Assessments:
+    * PassionFruit
+  * Andriod-Based Assessments:
+    * ...
 
 ## Advanced Network Security
 
