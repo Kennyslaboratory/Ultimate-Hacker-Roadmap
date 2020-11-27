@@ -151,5 +151,24 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * Pseudo-Constant Propagation
        * Dead Code Elimination
      * Indirect-Virtual Function Inlining
-   
 
+## Bypassing Modern Exploitation Prevention
+ * Memory Leak Vulnerabilities
+   * printf()
+ * Bypassing NX-Bit
+   * Return-to-LibC
+     * Executing function calls
+       * system()
+   * Return-Oriented Programming _(Gadget Chains)_
+     * mprotect(2) _(Disable DEP)_
+     * .bss Shellcode Execution
+ * Bypassing ASLR
+   * Enumerating Memory Offset
+     * BlindSide Attack _(Meltdown Vulnerable CPUs)_
+ * Use-After-Free
+   * Heap Spraying
+ * JIT Spraying
+ * Staged Shellcode
+   * Egg Hunting
+ * Bypassing CFG
+   * Data-Oriented Attacks
