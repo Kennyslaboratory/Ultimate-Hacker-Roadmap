@@ -79,11 +79,12 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * The Heap
      * Allocating Memory
      * Freeing Memory
-     * Garbage Collections
+     * Garbage Collection
    * CPU Registers
      * Intruction Pointer _(EIP / RIP)_
      * Stack Pointer _(ESP / RSP)_
      * Base Pointer _(EBP / RBP)_
+     * Accumulator Register _(EAX)_
      
            
  * **Modern Binary Protection Techniques**
