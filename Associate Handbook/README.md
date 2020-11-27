@@ -85,8 +85,10 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * Stack Pointer _(ESP / RSP)_
      * Base Pointer _(EBP / RBP)_
      * Accumulator Register _(EAX)_
+     * Counter Register _(ECX)_
+     * Data Register _(EDI)_
      
-           
+     
  * **Modern Binary Protection Techniques**
    * OS-Level Protections
      * NX-Bit _(DEP)_
