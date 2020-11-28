@@ -108,6 +108,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * NX-Bit _(DEP)_
      * ASLR
      * PIE
+     * RELRO
      * CFI _(CFG & RFG)_
        * Code-Pointer Separation
        * Code-Pointer Integrity
@@ -122,7 +123,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * Isolated Heaps _(MS14-035)_
      * Microsoft's MemoryProtection _(MS14-037)_
   
- * **Binary Hacking Techniques**
+ * **Fundamental Binary Hacking Techniques** _(Protection Bypasses are in Level 4)_
    * Stack-Based Buffer Overflow
      * NULL Byte _(0x00)_
      * Return Pointer Overwrite
