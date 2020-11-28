@@ -107,29 +107,28 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      
      
  * **Modern Binary Protection Techniques**
-   * System Enforced Protections
-     * NX-Bit _(DEP)_
-     * ASLR
-     * PIE
-     * RELRO
-     * Shadow Stacks
-       * Shadow Stack Pointer _(SSP)_
-     * CFI _(CFG & RFG)_
-       * Code-Pointer Separation
-       * Code-Pointer Integrity
-       * Vtable Pointer Verification
-     * CIG _(Code Integrity Guard)_
-     * ACG _(Arbitrary Code Guard)_
-   * Compiler Enforced Protections
-     * Stack Canaries
-       * Random canaries
-       * Random XOR Canaries
-       * Terminator Canaries
-     * SafeSEH & SEHOP
-       * Zeroing CPU Registers
-     * Isolated Heaps _(MS14-035)_
-     * Microsoft's MemoryProtection _(MS14-037)_
-     * MemGC _(Automated Memory Garabage Collection)_
+   * NX-Bit _(DEP)_
+   * ASLR
+   * PIE
+   * RELRO
+   * Shadow Stacks
+     * Shadow Stack Pointer _(SSP)_
+   * CFI _(CFG & RFG)_
+     * Code-Pointer Separation
+     * Code-Pointer Integrity
+     * Vtable Pointer Verification
+   * CIG _(Code Integrity Guard)_
+   * ACG _(Arbitrary Code Guard)_
+   * Stack Canaries
+     * Random canaries
+     * Random XOR Canaries
+     * Terminator Canaries
+   * SafeSEH & SEHOP
+     * Zeroing CPU Registers
+   * Isolated Heaps _(MS14-035)_
+   * Microsoft's MemoryProtection _(MS14-037)_
+   * MemGC _(Automated Memory Garabage Collection)_
+     * HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\Main::OverrideMemoryProtectionSetting
   
  * **Fundamental Exploit Development Techniques** _(Protection Bypasses are in Level 4)_
    * Stack-Based Buffer Overflow
