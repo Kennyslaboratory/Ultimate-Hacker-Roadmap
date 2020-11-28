@@ -199,6 +199,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
   * Information Leakage
     * 400 Page Errors
     * 500 Page Errors
+  * Checking HTTP Responses for server information
   
 ## Web Application Vulnerabilities
   * **OWASP Top 10:**
@@ -318,6 +319,13 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 ## Local Privilage Exculation
  * Windows
  * Linux
+    * LinPEAS
+    * Leveraging running processes running as root
+        * ps -ef
+        * ps -aux
+    * Searching for outdated vulnerable software
+        * dpkg -l _(Debian)_
+        * rpm -qa _(CentOS)_
 
 
 ## Python Essentials
