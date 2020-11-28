@@ -25,6 +25,10 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
  * **More Reverse Engineering Tools**
    * Windows-Based Tools
      * Flare VM
+   * Linux-Based Tools
+     * gdb-peda
+       * checksec
+     * pwndbg
    * Fuzzers
      * SPIKE
        * .spk
@@ -96,18 +100,19 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      
      
  * **Modern Binary Protection Techniques**
-   * OS-Level Protections
+   * System Enforced Protections
      * NX-Bit _(DEP)_
      * ASLR
      * CFI _(CFG & RFG)_
        * Code-Pointer Separation
        * Code-Pointer Integrity
        * Vtable Pointer Verification
-   * Compile-Time Protections
+   * Compiler Enforced Protections
      * Stack Canaries
        * Random canaries
        * Random XOR Canaries
        * Terminator Canaries
+     * PIE
      * SafeSEH & SEHOP
        * Zeroing CPU Registers
      * Isolated Heaps _(MS14-035)_
