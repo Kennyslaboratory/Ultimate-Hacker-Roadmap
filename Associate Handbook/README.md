@@ -107,28 +107,39 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      
      
  * **Modern Binary Protection Techniques**
-   * NX-Bit _(DEP)_
-   * ASLR
-   * PIE
-   * RELRO
-   * Shadow Stacks
-     * Shadow Stack Pointer _(SSP)_
-   * CFI _(CFG & RFG)_
-     * Code-Pointer Separation
-     * Code-Pointer Integrity
-     * Vtable Pointer Verification
-   * CIG _(Code Integrity Guard)_
-   * ACG _(Arbitrary Code Guard)_
-   * Stack Canaries
-     * Random canaries
-     * Random XOR Canaries
-     * Terminator Canaries
-   * SafeSEH & SEHOP
-     * Zeroing CPU Registers
-   * Isolated Heaps _(MS14-035)_
-   * Microsoft's MemoryProtection _(MS14-037)_
-   * MemGC _(Automated Memory Garabage Collection)_
-     * HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\Main::OverrideMemoryProtectionSetting
+   * Linux-Based Protections
+     * PaX _(Security Team)_
+       * NOEXEC
+       * mprotect()
+       * RAP
+     * PIE
+     * RELRO
+     * Stack Guard _(Canary Derivative)_
+   * Windows-Based Protections
+     * DEP _(NX-Bit Derivative)_
+     * CFG / RFG
+     * Shadow Stacks
+       * Shadow Stack Pointer _(SSP)_
+     * Isolated Heaps _(MS14-035)_
+     * Microsoft's MemoryProtection _(MS14-037)_
+     * MemGC _(Automated Memory Garabage Collection)_
+       * HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\Main::OverrideMemoryProtectionSetting
+     * CIG _(Code Integrity Guard)_
+     * ACG _(Arbitrary Code Guard)_
+   * OS Independent Protections
+     * W^X
+     * ASLR
+     * Stack Canaries
+       * Random canaries
+       * Random XOR Canaries
+       * Terminator Canaries
+     * CFI _(pax_future.txt)_
+       * Code-Pointer Separation
+       * Code-Pointer Integrity
+       * Vtable Pointer Verification
+     * SafeSEH & SEHOP
+       * Zeroing CPU Registers
+
   
  * **Fundamental Exploit Development Techniques** _(Protection Bypasses are in Level 4)_
    * Stack-Based Buffer Overflow
