@@ -188,7 +188,12 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
       * Drupal
       * Joomla
       * Django
-    
+
+## Web Application Reconnaissance
+  * HTML Comments
+  * robots.txt
+  * Spidering
+  
 ## Web Application Vulnerabilities
   * **OWASP Top 10:**
     * **Injection**
