@@ -192,6 +192,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 ## Web Application Reconnaissance
   * HTML Comments
   * robots.txt
+  * /.well-known/security.txt
   * Spidering
   * Information Leakage
     * 400 Page Errors
