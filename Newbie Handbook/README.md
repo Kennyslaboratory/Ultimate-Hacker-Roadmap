@@ -197,6 +197,8 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
   * /.well-known/security.txt
   * Spidering
   * Forced Browsing
+  * Vhost Bruteforcing
+    * Accessing unresolved DNS via Host Header
   * Information Leakage
     * 400 Page Errors
     * 500 Page Errors
