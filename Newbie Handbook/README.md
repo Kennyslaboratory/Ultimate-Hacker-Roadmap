@@ -191,6 +191,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 
 ## Web Application Reconnaissance
   * HTML Comments
+  * Explosed Directory Indexes
   * robots.txt
   * /.well-known/security.txt
   * Spidering
