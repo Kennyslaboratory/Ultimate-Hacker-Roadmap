@@ -98,6 +98,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * Counter Register _(ECX)_
      * Data Register _(EDI)_
    * ELF Binaries
+     * Dynamic Libraries
      * Global Offset Table _(GOT)_
      * Procedure Linkage Table _(PLT)_
      
