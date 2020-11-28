@@ -97,12 +97,16 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * Accumulator Register _(EAX)_
      * Counter Register _(ECX)_
      * Data Register _(EDI)_
+   * ELF Binaries
+     * Global Offset Table _(GOT)_
+     * Procedure Linkage Table _(PLT)_
      
      
  * **Modern Binary Protection Techniques**
    * System Enforced Protections
      * NX-Bit _(DEP)_
      * ASLR
+     * PIE
      * CFI _(CFG & RFG)_
        * Code-Pointer Separation
        * Code-Pointer Integrity
@@ -112,7 +116,6 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
        * Random canaries
        * Random XOR Canaries
        * Terminator Canaries
-     * PIE
      * SafeSEH & SEHOP
        * Zeroing CPU Registers
      * Isolated Heaps _(MS14-035)_
