@@ -129,6 +129,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
        * Zeroing CPU Registers
      * Isolated Heaps _(MS14-035)_
      * Microsoft's MemoryProtection _(MS14-037)_
+     * MemGC _(Automated Memory Garabage Collection)_
   
  * **Fundamental Exploit Development Techniques** _(Protection Bypasses are in Level 4)_
    * Stack-Based Buffer Overflow
