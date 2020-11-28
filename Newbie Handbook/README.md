@@ -195,6 +195,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
   * robots.txt
   * /.well-known/security.txt
   * Spidering
+  * Forced Browsing
   * Information Leakage
     * 400 Page Errors
     * 500 Page Errors
