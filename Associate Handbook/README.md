@@ -112,6 +112,8 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * ASLR
      * PIE
      * RELRO
+     * Shadow Stacks
+       * Shadow Stack Pointer _(SSP)_
      * CFI _(CFG & RFG)_
        * Code-Pointer Separation
        * Code-Pointer Integrity
