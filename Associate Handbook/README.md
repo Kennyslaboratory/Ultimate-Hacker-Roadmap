@@ -25,6 +25,9 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
  * **More Reverse Engineering Tools**
    * Windows-Based Tools
      * Flare VM
+     * SysInternals
+     * CFF Explorer
+     * Get-PESecurity
    * Linux-Based Tools
      * gdb-peda
        * checksec
@@ -113,6 +116,8 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
        * Code-Pointer Separation
        * Code-Pointer Integrity
        * Vtable Pointer Verification
+     * CIG _(Code Integrity Guard)_
+     * ACG _(Arbitrary Code Guard)_
    * Compiler Enforced Protections
      * Stack Canaries
        * Random canaries
@@ -123,7 +128,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
      * Isolated Heaps _(MS14-035)_
      * Microsoft's MemoryProtection _(MS14-037)_
   
- * **Fundamental Binary Hacking Techniques** _(Protection Bypasses are in Level 4)_
+ * **Fundamental Exploit Development Techniques** _(Protection Bypasses are in Level 4)_
    * Stack-Based Buffer Overflow
      * NULL Byte _(0x00)_
      * Return Pointer Overwrite
