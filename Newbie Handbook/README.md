@@ -38,6 +38,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
      * Dirbuster
    * SQLmap
    * CeWL
+   * Aquatone
    * Hydra
    * testssl.sh
  * **Network-Based Tools**
