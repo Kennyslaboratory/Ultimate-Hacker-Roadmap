@@ -193,6 +193,9 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
   * HTML Comments
   * robots.txt
   * Spidering
+  * Information Leakage
+    * 400 Page Errors
+    * 500 Page Errors
   
 ## Web Application Vulnerabilities
   * **OWASP Top 10:**
