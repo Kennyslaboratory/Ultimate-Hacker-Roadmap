@@ -89,7 +89,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
    * Git BASH
  * **Misc Tools**
    * MetaSploit Framework
-   * **Must-Have Browser Extensions**
+   * **Top Browser Extensions**
       * Wappalyzer
       * Link Redirect Trace
       * JWT Debugger
