@@ -31,21 +31,28 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * BlackArch
  * **Web Applications Tools**
    * BurpSuite
-   * WPscan
    * Nikto
    * Directory Busters
      * Dirb
      * Dirbuster
    * SQLmap
+   * WPscan
+   * w3af
    * CeWL
-   * Aquatone
-   * Hydra
    * testssl.sh
+      * **Less-Used Web App Tools...*
+         * Aquatone
+         * EyeWitness
+         * Hydra
  * **Network-Based Tools**
    * nmap
    * Netcat
    * Wireshark
    * curl
+      * **DNS Tools**
+      * dig
+      * dnsenum
+      * dnsrecon
  * **Password Cracking Tools**
    * Hashcat
    * John the Ripper
@@ -82,6 +89,11 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
    * Git BASH
  * **Misc Tools**
    * MetaSploit Framework
+   * **Must-Have Browser Extensions**
+      * Wappalyzer
+      * Link Redirect Trace
+      * JWT Debugger
+      * JSONView
    
 
 ## Web Application Fundamentals
