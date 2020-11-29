@@ -203,19 +203,24 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
       * Django
 
 ## Web Application Reconnaissance
-  * HTML Comments
-  * Explosed Directory Indexes
-  * robots.txt
-  * /.well-known/security.txt
-  * Spidering
-  * Forced Browsing
-  * Vhost Bruteforcing
-    * Accessing unresolved DNS via Host Header
-  * Information Leakage
-    * 400 Page Errors
-    * 500 Page Errors
-  * Checking HTTP Responses for server information
-  
+  * **Top 10 To-Do List**
+      * Spidering with BurpSuite
+      * Check robots.txt
+      * nikto
+      * dig
+      * Google Dorks
+      * Checking HTTP Responses for sensitive information
+      * Forced Browsing
+      * Enumerate subdomains
+      * Check for HTML Comments
+      * View custom JavaScript
+      * /.well-known/security.txt
+      * Vhost Bruteforcing
+        * Accessing unresolved DNS via Host Header
+  * **More Checklists**
+      * ...
+      
+      
 ## Web Application Vulnerabilities
   * **OWASP Top 10:**
     * **Injection**
