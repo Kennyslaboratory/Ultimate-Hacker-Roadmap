@@ -206,6 +206,28 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
     * Worms
     * Viruses
 
+# Fundamental Web Application Design
+ * HTML
+   * <a>
+   * <h1>
+   * <p>
+ * CSS
+   * CSS Syntax
+   * SASS
+ * PHP
+   * PHP Syntax
+   * phpinfo();
+   * include
+ * WordPress CMS
+   * Pages
+   * Posts
+   * Images
+   * Themes
+   * Plugins
+     * Smush
+     * Yoast SEO
+     * Woocommerce
+   * Settings
 
 ## Tools
 
