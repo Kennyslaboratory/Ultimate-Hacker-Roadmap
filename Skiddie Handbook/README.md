@@ -214,7 +214,6 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
      * div
      * img
      * h1, h2, h3, h4
-   * 
  * CSS
    * CSS Syntax
    * SASS
