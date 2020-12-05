@@ -12,12 +12,12 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 # Table of Contents
 
 ### Very Basic Computer Fundamentals
-* Binary
+* **Binary**
   * 8-Bit Binary Translation
   * Base8 vs. Base10
   * Hexadecimal _(Base16)_
   * Bit vs. Nyble vs. Byte
-* Basic BIOS Configurations
+* **Basic BIOS Configurations**
   * Boot Sequence
   * Enabling / Disabling Devices
   * Changing Date / Time
@@ -26,7 +26,7 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
   * BIOS Firmware Upgrades
   * Enabling Virtualization Support
   * Secure Boot _(Basic Understanding)_
-* Hard Drive Basics
+* **Hard Drive Basics**
   * Magnetic HDDs
   * SSDs
   * eMMC
@@ -36,11 +36,11 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
     * ext2, ext3, ext4
   * MBR _(Legacy)_
   * EFI / UEFI
-* RAM
+* **RAM**
   * DDR1, DDR2, DDR3, DDR4
   * Memory Speeds
   * Memory Addressing
-* CPUs
+* **CPUs**
   * Intel
     * i3, i5, i7, i9
   * AMD
@@ -48,23 +48,23 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
   * 32bit CPUs
   * 64bit CPUs
   * MultiThreading vs. MultiProcessing
-* GPUs
+* **GPUs**
   * Integrated vs. Discrete GPUs
   * Ray Tracing
   * GPU Memory
   * GPU Bandwidth
-* The Kernel _(Basic Understanding)_
+* **The Kernel** _(Basic Understanding)_
   * Physical Memory vs. Virtual Memory
   * Kernel Space vs. User Space
   * SYSCALLs
-* Basic Windows Features
+* **Basic Windows Features**
   * Windows Compatability Mode
   * .NET _(Basic Understanding)_
   * Hyper-V _(Basic Understanding)_
   * LDAP _(Basic Understanding)_
   * SMB _(Basic Understanding)_
-* Caching
-* Common File Exstentions
+* **Caching**
+* **Common File Exstentions**
   * Executables
     * .exe
     * .o
@@ -94,11 +94,11 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
     * .pub
     * .pem
     * .der
-* Encoding
+* **Encoding**
   * Base64
   * ASCII
   * UTF-8
-* RAIDs
+* **RAIDs**
   * RAID 0
   * RAID 1
   * RAID 5
@@ -110,26 +110,26 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 * LAN vs. WAN vs. MAN
 * NAT vs. PAT
 * Power Over Ethernet _(PoE)_
-* The OSI Model
- * Layer 1 - _Physical Layer_
+* **The OSI Model**
+ * **Layer 1** - _Physical Layer_
    * RJ45, Twisted Pairs
    * Coaxial Cabling
    * Fiber Optics
      * Single Mode
      * Multi-Mode
- * Layer 2 - _Data-Link Layer_
+ * **Layer 2** - _Data-Link Layer_
    * MAC Addresses
    * FCS & CRC
    * Switches & Hubs
    * ARP
    * DHCP
- * Layer 3 - _Network Layer_
+ * **Layer 3** - _Network Layer_
    * IPv4 Addressing
    * CIDR Notation
    * Packets
    * Subnet Masks
    * Routers
- * Layer 4 - _Transport Layer_
+ * **Layer 4** - _Transport Layer_
    * TCP vs. UDP
    * Segments
    * Most Common Port Numbers:
@@ -143,29 +143,29 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
      * 389
      * 443
      * 445
-   * Layer 5 - _Session Layer_
+   * **Layer 5** - _Session Layer_
      * Sockets
-   * Layer 6 - _Presentation Layer_
+   * **Layer 6** - _Presentation Layer_
      * SSL / TLS _(Basic Understanding)_
      * SSH
-   * Layer 7 - _Application Layer_
+   * **Layer 7** - _Application Layer_
      * DNS
      * HTTP
      * FTP
- * Email Technologies
+ * **Email Technologies**
    * IMAP
    * POP3
    * SPF Records
    * MX Records
  * Domain Names
- * WiFi Essentials
+ * **WiFi Essentials**
    * Configuring Router's WiFi
    * 802.11
    * Ad Hoc Networking
-   * WiFi Frequences
+   * **WiFi Frequences**
      * 2.4GHz
      * 5.0GHz
-   * WiFi Security Basics _(Shared Key)_
+   * **WiFi Security Basics** _(Shared Key)_
      * WEP
      * WPA1, WPA2
      * TKIP vs. AES
