@@ -205,6 +205,8 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 ## Web Application Reconnaissance
   * **Top 10 To-Do List**
       * Spidering with BurpSuite
+        * Take notes of any attack vectors
+          * Forms, File Uploads, etc.
       * Check robots.txt
       * nikto
       * dig
@@ -269,12 +271,32 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 ## Advanced Networking Essentials
   * SYN Scan
   * SSL/TLS In-Depth Understanding
+    * Let's Encrypt
     * HSTS
     * x509
+    * Digital Signatures
+      * Certificate Authorities
+        * Root CA
+        * Intermediate CA
+        * Server Certificates
+        * Chain of Trust
+    * Diffie-Hellman Key Exchange
+  * Active Directory Services
+    * LDAP
+    * Single-Sign-On _(SSO)_
+    * Kerberos
   * iptables
+    * ipTable Chains:
+      * Input
+      * Forward
+      * Output
+    * ipTable Connection Responses:
+      * Accept
+      * Drop
+      * Reject
     
 
-## Network-Based Vulnerabilities
+## Fundamental Network-Based Vulnerabilities
   * Man-In-The-Middle Attack
     * ARP Poisoning
     * Promiscuous Mode
@@ -292,9 +314,18 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * WPA Enterprise
     * Bruteforcing WPS
     * Evil Twin Attack
+    * Windows Active Directory Attacks
+      * DCSync
+      * Single-Sign-On Attacks
+        * NTLM Hashes
+        * Pass-The-Hash
+      * Kerberos Attacks:
+        * Pass-The-Ticket Attack
+        * Golden Ticket Attack
+        * Silver Ticket Attack
 
 ## Linux Essentials
-  * Linux Distributions
+  * Linux Distributions:
     * Debian vs. RedHat
     * Debian-Based Distros
       * Ubunutu
@@ -304,9 +335,17 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * RedHat
         * RHEL _($)_
         * CentOS
+        * Fedora
   * Linux CLI Essentials
     * System Management
     * Installing Software
+      * apt _(Debian)_
+        * .deb
+        * dpkg
+      * yum _(RedHat)_
+        * .rpm
+      * /usr/bin
+      * /opt/
     * Networking
       * nmcli
       * nmtui
@@ -331,7 +370,17 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * /etc/cron.d
     * /var/www
     
-
+## Memory / Binary Fundamentals
+  * **Binary**
+     * Bit vs. Nyble vs. Byte
+    * 8-Bit Binary Translation
+    * Base8 vs. Base10
+    * Hexadecimal _(Base16)_
+  * **The Kernel**
+    * Physical Memory vs. Virtual Memory
+    * SYSCALLs
+    * System Interrupts
+    * Modules
 
 ## BASH Scripting
 
@@ -379,3 +428,5 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
  * CCNA
  * CEH
  * AWS Certified Solutions Architect - Associate
+
+---------------------------------------------
