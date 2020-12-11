@@ -185,6 +185,8 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 * Least Previlage
 * VPN Tunneling _(Basic Understanding)_
   * OpenVPN
+  * IPsec Tunnels
+  * SSL Tunnels
 * Bastion Hosts
 * IPsec _(Basic Understanding)_
 * Digital Signatures _(Basic Understanding)_
@@ -231,7 +233,7 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
      * WPcoder
    * Settings
 
-## Tools
+## Technical Tools
 
 ### IT Support Software
  * Computer Diagnositics & Repair
