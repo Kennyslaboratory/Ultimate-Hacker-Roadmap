@@ -276,7 +276,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
 
 
 ## Advanced Networking Essentials
-  * SYN Scan
+  * SYN Scanning
   * SSL/TLS In-Depth Understanding
     * Let's Encrypt
     * HSTS
