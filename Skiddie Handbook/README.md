@@ -12,11 +12,6 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 # Table of Contents
 
 ### Very Basic Computer Fundamentals
-* **Binary**
-  * 8-Bit Binary Translation
-  * Base8 vs. Base10
-  * Hexadecimal _(Base16)_
-  * Bit vs. Nyble vs. Byte
 * **Basic BIOS Configurations**
   * Boot Sequence
   * Enabling / Disabling Devices
@@ -53,10 +48,6 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
   * Ray Tracing
   * GPU Memory
   * GPU Bandwidth
-* **The Kernel** _(Basic Understanding)_
-  * Physical Memory vs. Virtual Memory
-  * Kernel Space vs. User Space
-  * SYSCALLs
 * **Basic Windows Features**
   * Windows Compatability Mode
   * .NET _(Basic Understanding)_
@@ -98,6 +89,9 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
   * Base64
   * ASCII
   * UTF-8
+  * Data Serialization
+    * JSON
+    * XML
 * **RAIDs**
   * RAID 0
   * RAID 1
@@ -190,12 +184,13 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 * Password Policies
 * Least Previlage
 * VPN Tunneling _(Basic Understanding)_
+  * OpenVPN
 * Bastion Hosts
 * IPsec _(Basic Understanding)_
 * Digital Signatures _(Basic Understanding)_
 * Signature-Based Intrusion Prevention Systems
 * Anamoly-Based Intrusion Prevention Systems
-* Common Attacks
+* Common Attacks _(Basic Understanding)_
   * Dos & DDoS Attacks
   * Phishing
   * Spear Phishing
@@ -209,19 +204,22 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 # Fundamental Web Application Design
  * HTML
    * HTML Tags
-     * a
+     * html
+     * head
+     * h1, h2, h3, h4
      * p
+     * a
      * div
      * img
-     * h1, h2, h3, h4
  * CSS
    * CSS Syntax
    * SASS
+   * Linking CSS Stylesheet
  * PHP
    * PHP Syntax
    * phpinfo();
    * include
- * WordPress CMS
+ * WordPress (CMS)
    * Pages
    * Posts
    * Images
@@ -230,6 +228,7 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
      * Smush
      * Yoast SEO
      * Woocommerce
+     * WPcoder
    * Settings
 
 ## Tools
