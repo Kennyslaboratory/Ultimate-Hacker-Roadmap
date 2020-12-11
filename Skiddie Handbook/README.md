@@ -48,13 +48,11 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
   * Ray Tracing
   * GPU Memory
   * GPU Bandwidth
-* **Basic Windows Features**
-  * Windows Compatability Mode
-  * .NET _(Basic Understanding)_
-  * Hyper-V _(Basic Understanding)_
-  * LDAP _(Basic Understanding)_
-  * SMB _(Basic Understanding)_
 * **Caching**
+  * Web Caching
+  * Data Caching
+  * Application/Output Caching
+  * Distributed Caching
 * **Common File Exstentions**
   * Executables
     * .exe
@@ -89,15 +87,38 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
   * Base64
   * ASCII
   * UTF-8
-  * Data Serialization
-    * JSON
-    * XML
 * **RAIDs**
   * RAID 0
   * RAID 1
   * RAID 5
   * RAID 6
   * RAID 10
+  
+## Windows Operating System Essentials
+ * Windows Control Panel
+ * Windows Update
+ * SysPrep
+   * OOBE
+     * Generalize
+   * Audit Mode
+   * WIM Images
+ * Device Manager
+ * Task Manager
+ * msconfig
+ * **Basic Windows Features**
+   * .NET _(Basic Understanding)_
+   * Hyper-V _(Basic Understanding)_
+   * LDAP _(Basic Understanding)_
+   * SMB _(Basic Understanding)_
+ * Windows Home vs. Windows Pro
+ * WorkGroups
+ * Domains
+ * Network Interfaces
+ * HOSTS File
+ * SAM File
+ * Registry
+   * RegEdit
+ * Windows Compatibilitiy Mode
 
 
 ### Very Basic Networking Funadmentals
@@ -147,6 +168,7 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
      * HTTP
      * FTP
  * **Email Technologies**
+   * Exchange Servers
    * IMAP
    * POP3
    * SPF Records
@@ -184,15 +206,12 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 * Password Policies
 * Least Previlage
 * VPN Tunneling _(Basic Understanding)_
-  * OpenVPN
-  * IPsec Tunnels
-  * SSL Tunnels
 * Bastion Hosts
 * IPsec _(Basic Understanding)_
 * Digital Signatures _(Basic Understanding)_
 * Signature-Based Intrusion Prevention Systems
 * Anamoly-Based Intrusion Prevention Systems
-* Common Attacks _(Basic Understanding)_
+* Common Attacks
   * Dos & DDoS Attacks
   * Phishing
   * Spear Phishing
@@ -206,22 +225,19 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 # Fundamental Web Application Design
  * HTML
    * HTML Tags
-     * html
-     * head
-     * h1, h2, h3, h4
-     * p
      * a
+     * p
      * div
      * img
+     * h1, h2, h3, h4
  * CSS
    * CSS Syntax
    * SASS
-   * Linking CSS Stylesheet
  * PHP
    * PHP Syntax
    * phpinfo();
    * include
- * WordPress (CMS)
+ * WordPress CMS
    * Pages
    * Posts
    * Images
@@ -230,10 +246,9 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
      * Smush
      * Yoast SEO
      * Woocommerce
-     * WPcoder
    * Settings
 
-## Technical Tools
+## Tools
 
 ### IT Support Software
  * Computer Diagnositics & Repair
