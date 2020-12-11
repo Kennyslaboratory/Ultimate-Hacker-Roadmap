@@ -106,6 +106,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * **CSS Frameworks:**
       * Bootstrap
       * Google Material
+      * Purple
     * Stylesheet Subresource Integrity
   * **XML**
     * SVG Images
@@ -145,6 +146,12 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
       * Access-Control-Allow-Credentials
       * Access-Control-Request-Method
       * Access-Control-Request-Headers
+    * **HTTP Security Headers**
+      * Strict-Transport-Security
+      * Content-Security-Policy
+      * X-XSS-Protection
+      * X-Frame-Options
+      * X-Content-Type-Options
     * X-Csrf-Token
   * **HTTP Requests**
     * GET
@@ -328,14 +335,13 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
   * Linux Distributions:
     * Debian vs. RedHat
     * Debian-Based Distros
-      * Ubunutu
-        * Linux Mint
+      * Ubuntu
       * Kali Linux
       * ParrotOS
     * RedHat
-        * RHEL _($)_
-        * CentOS
-        * Fedora
+      * RHEL _($)_
+      * CentOS
+      * Fedora
   * Linux CLI Essentials
     * System Management
     * Installing Software
@@ -349,8 +355,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     * Networking
       * nmcli
       * nmtui
-      * File Paths:
-        /etc/sysconfig/network-scripts/
+      * /etc/sysconfig/network-scripts/
     * Inspecting Logs
       * journelctl
       * /var/log
@@ -372,7 +377,7 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
     
 ## Memory / Binary Fundamentals
   * **Binary**
-     * Bit vs. Nyble vs. Byte
+    * Bit vs. Nyble vs. Byte
     * 8-Bit Binary Translation
     * Base8 vs. Base10
     * Hexadecimal _(Base16)_
