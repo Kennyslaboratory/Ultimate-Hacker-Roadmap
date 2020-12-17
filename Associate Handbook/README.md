@@ -47,9 +47,24 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
   * Andriod-Based Assessments:
     * ...
 
-## Advanced Network Security
+
+## Advanced Web Application Exploitation
+ * Bypassing WAFs
+ * Malicious File Uploads
+   * .pdf Upload Attacks
+     * XSS Embedded PDF Attacks
+     * XXE Embedded PDF Attacks
+   * .doc Upload Attacks
+   * img Upload Attacks
+ * XXE-OOB Exploitation
+ *
+ 
 
 
+## Advanced Network Security [to-do]
+...
+...
+...
 
 ## C/C++ Programming Essentials
  * Variable Types
