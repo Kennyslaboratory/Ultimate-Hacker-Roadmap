@@ -2,7 +2,7 @@
 A list of everything you need to be successful as an Ethical Hacker.  The best learning resources, tools, exploits, and payloads all neatly organized into one place.  I've categorized everything by skill level so you know where you stand and where you should start.
 
 ## Skill Levels
-* **Skiddie / 0-knowledge** _(Unhirable)_
+* **Script Kiddie / 0-knowledge** _(Unhirable)_
   * Doesn't understand computing fundaments, code, networking, web technology, or how anything works beyond a fundamental level.
   * Typically relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, precompiled RATs, etc.
   * Requires step-by-step tutorials to complete simple tasks or configurations.
