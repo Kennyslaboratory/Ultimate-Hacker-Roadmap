@@ -1,6 +1,6 @@
 # The Ultimate Hacker Roadmap
 <p align="center">
-  <img src="./hacker_xp.png">
+  <img src="./hacker_xpbar.png">
 </p>
 
 ## Skill Levels
