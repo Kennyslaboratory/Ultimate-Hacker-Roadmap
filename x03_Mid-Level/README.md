@@ -6,7 +6,7 @@ Finally, we've weeded out all the skiddies and newbies.  We love them, we want t
 -------
 
 ## What you should focus on:
-You're skilled enough to be tasked with work that invovles:
+You should already be skilled enough to be tasked with work that invovles:
   * Web Application Security Assessments
   * Mobile Application Security Assessments
   * Network Security Assessments
