@@ -140,6 +140,7 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
    * DHCP
  * **Layer 3** - _Network Layer_
    * IPv4 Addressing
+   * ICMP
    * CIDR Notation
    * Packets
    * Subnet Masks
