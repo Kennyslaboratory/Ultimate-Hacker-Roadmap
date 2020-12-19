@@ -224,14 +224,16 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 # Fundamental Web Application Design
  * HTML
    * HTML Tags
+     * html, body, head
      * a
      * p
+     * ul, ol
+       * li
      * div
      * img
      * h1, h2, h3, h4
  * CSS
    * CSS Syntax
-   * SASS
  * PHP
    * PHP Syntax
    * phpinfo();
