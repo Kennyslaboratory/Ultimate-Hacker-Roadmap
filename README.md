@@ -2,18 +2,16 @@
 A list of everything you need to be successful as an Ethical Hacker.  The best learning resources, tools, exploits, and payloads all neatly organized into one place.  I've categorized everything by skill level so you know where you stand and where you should start.
 
 ## Skill Levels
-* **Script Kiddie / 0-knowledge** _(Unhirable)_
-  * Doesn't understand computing fundaments, code, networking, web technology, or how anything works beyond a fundamental level.
-  * Typically relies solely on tools created by other hackers.  I.E. MetaSploit, nmap, SQLmap, precompiled RATs, etc.
-  * Requires step-by-step tutorials to complete simple tasks or configurations.
-  * May have discovered Tor and thinks they're the next Albert Einstein.
-  * The worst of these individuals often suffer from the Dunning Kruger effect. _(Over inflated egos)_
-    * AKA, if mommy didn't love you, then you may be considered the type of toxic individual who contributes in DoS Attacks, purchases hacking software to cheat in games, and tries to express their lackluster dominance in the hacking community.
+* **Clueless** _(Unhirable)_
+  * You want a job in IT but are unsure how to transit into IT from your current position.
+  * You don't understand computing fundaments, code, networking, web technology, or how anything works beyond a very basic fundamental level.
+  * You rely solely on tools created by other programmers or hackers.  I.E. MetaSploit, nmap, SQLmap, precompiled RATs, etc.
+  * Most technical things you've done are operating system installations, virus scans, and putting together a computer from scratch.
 * **Newbie** _($30k - $50k)_
   * IT Support Specialist, IT Consultant, PC Repair Technician, etc.
-  * Can do Virus Removals, backup data, run RJ45 cables, and fix issues with email clients such as Outlook.
-  * Might understand a little bit about the Linux CLI, basic BASH Scripting, and the fundamentals of a High-Level language like Python or Ruby.
-  * Will struggle but can likely code their own static Website using HTML, CSS, and basic JavaScript.
+  * Can troubleshoot PC problems, backup data, run RJ45 cables, and fix issues with email clients such as Outlook.
+  * You might understand a little bit about the Linux CLI, basic BASH Scripting, etc.
+  * You will struggle but can likely code your own static Website using HTML, CSS, and some JavaScript.
   * Understands how to troubleshoot computer and network issues.
   * Considered Grandma's hero whenever her tablet or phone isn't working.
   * May have an idea or recently discovered the OWASP Top 10, and maybe they've done a few walkthroughs regarding SQL Injection, XSS, and CSRF.
