@@ -4,7 +4,7 @@
 </p>
 
 ## Skill Levels
-* **Clueless** _(Unhirable)_
+* **[Clueless](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x00_Clueless)** _(Unhirable)_
   * You want a job in IT but are unsure how to transition into an IT job from your current position.
   * You don't understand computing fundaments, code, networking, web technology, or how anything works beyond a very basic fundamental level.
   * You rely solely on tools created by other programmers or hackers.  I.E. MetaSploit, nmap, SQLmap, precompiled RATs, etc.
