@@ -1,5 +1,5 @@
 # The Newbie's Curriculum - Level 1
-So you've looked over the laundry list of technological concepts in the `Clueless` folder and said, _"Yeah! I know all of this stuff."_  
+So you've looked over the laundry list of technological concepts in the **[Clueless](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x00_Clueless)** folder and said, _"Yeah! I know all of this stuff."_  
 
 Odds are you are probably working in a Technical Support role already and making upwards around $40,000 / year.  Your current job is boring the crap out of you and you were always super interested in Penetration Testing but have no idea how to get a job without a Computer Science Degree, etc.
 
@@ -50,9 +50,9 @@ IMPORTANT!!! Before you can move on to learning another vulnerability, you must 
    * Wireshark
    * curl
       * **DNS Tools**
-      * dig
-      * dnsenum
-      * dnsrecon
+        * dig
+        * dnsenum
+        * dnsrecon
  * **Password Cracking Tools**
    * Hashcat
    * John the Ripper
