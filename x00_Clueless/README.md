@@ -121,6 +121,7 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 
 
 ### Very Basic Networking Funadmentals
+* IPv4 vs IPv6
 * LAN vs. WAN vs. MAN
 * NAT vs. PAT
 * Power Over Ethernet _(PoE)_
