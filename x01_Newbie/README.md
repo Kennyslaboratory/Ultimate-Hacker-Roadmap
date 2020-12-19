@@ -10,7 +10,7 @@ Great!  I'm here to finally level up your skills and get you out that boring IT 
 If you want to become an Associate Penetration Tester then you should put 80% of your effort into **Web Application Hacking**.  Right now, the majority of work that security firms are contracted to test are Web Applications.  Esspecually applications that are deployed to the cloud, such as AWS, GCP, and Azure.  You'll need to have very indepth knowledge of these technologies if you expect to claw your way into an Associate position at a security firm that hires penetration testers.
 
 ## The Framework of Understanding a Vulnerability
-IMPORTANT!!! Before you can move on to learning another vulnerability, you must be able to answer these 4 questions about the vulnerability you are currently researching:
+`IMPORTANT!!!` Before you can move on to learning another vulnerability, you must be able to answer these 4 questions about the vulnerability you are currently researching:
  * **Find**
    * How do you Enumerate the vulnerability?
  * **Exploit**
