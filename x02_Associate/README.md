@@ -156,7 +156,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
        * Zeroing CPU Registers
 
   
- * **Fundamental Exploit Development Techniques** _(Protection Bypasses are in Level 4)_
+ * **Fundamental Exploit Development Techniques** _(Protection Bypasses are in Level 3)_
    * Stack-Based Buffer Overflow
      * NULL Byte _(0x00)_
      * Return Pointer Overwrite
