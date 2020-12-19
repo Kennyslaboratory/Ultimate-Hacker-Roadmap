@@ -18,7 +18,7 @@
   * Gets the gist of encryption but doesn't understand it fully.  "It has keys and stuff..?"
   * Understands the CIA Triad, generally understands the differences between encryption, hashing, and encoding.
   * Mr. Robot is your favorite TV Series.
-* **Associate** _($80k - $90k)_
+* **[Associate](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x02_Associate)** _($80k - $90k)_
   * Associate Security Consultant, Junior-Level Penetration Tester
   * Understands the OWASP Top 10 and probably recently learned about CORS, OOB-XXE, JWT bugs, Cache Poisoning, OAuth2, and NoSQL Databases.
   * Can do basic code review, but will likely struggle to find more granular vulnerabilities that require fuzzing and advanced debugging.
