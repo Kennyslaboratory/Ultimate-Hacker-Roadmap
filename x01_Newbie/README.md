@@ -1,4 +1,4 @@
-# The Newbie's Handbook - Level 2
+# The Newbie's Curriculum - Level 1
 So you've looked over the laundry list of technological concepts in the `Clueless` folder and said, _"Yeah! I know all of this stuff."_  
 
 Odds are you are probably working in a Technical Support role already and making upwards around $40,000 / year.  Your current job is boring the crap out of you and you were always super interested in Penetration Testing but have no idea how to get a job without a Computer Science Degree, etc.
