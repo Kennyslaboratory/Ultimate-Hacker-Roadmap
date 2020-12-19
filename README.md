@@ -1,7 +1,7 @@
 # The Ultimate Hacker Roadmap
-A complete pathway from Zero to Hero.
-
-![Hacker_XP](./hacker_xp.png)
+<p align="center">
+  <img src="./hacker_xp.png">
+</p>
 
 ## Skill Levels
 * **Clueless** _(Unhirable)_
