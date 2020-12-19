@@ -29,7 +29,7 @@
   * May know a slight amount about Mobile Technology but not enough to do a security assessment.
   * Can be hired as a security professional and work professionally but will likely need to be supervised.
   * Might get stumped when trying to bypass certain protections such as firewalls, Content Security Policy, etc.
-* **Mid-Level** _($95k - $120k)_
+* **[Mid-Level](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x03_Mid-Level)** _($95k - $120k)_
   * Security Consultant, Security Engineer, Penetration Tester
   * Can perform code review and work alone in most cases.
   * Proficient enough to work full-time remotely, requires very little oversight.
@@ -40,7 +40,7 @@
   * Routinely challenges themselves with more complicated CTFs, Labs, and Projects.
   * Can likely develop their own malware or at least script enough to exfilrate the data they want.
   * Enough knowledge to write a fairly useful guide or book on penetration testing.
-* **Senior** _($120k+)_
+* **[Senior](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x04_Senior)** _($120k+)_
   * Senior Security Consultant, Senior Security Engineer, etc.
   * Works very close to the metal.
   * Has attended their fair share of hacker conventions and conferences.
