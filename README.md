@@ -7,7 +7,6 @@
 * **[Clueless](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x00_Clueless)** _(Unhirable)_
   * You want a job in IT but are unsure how to transition into an IT job from your current position.
   * You don't understand computing fundaments, code, networking, web technology, or how anything works beyond a very basic fundamental level.
-  * You rely solely on tools created by other programmers or hackers.  I.E. MetaSploit, nmap, SQLmap, precompiled RATs, etc.
   * Most technical things you've done are operating system installations, virus scans, and putting together a computer from scratch.
 * **[Newbie](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x01_Newbie)** _($30k - $50k)_
   * IT Support Specialist, IT Consultant, PC Repair Technician, etc.
@@ -15,7 +14,6 @@
   * You might understand a little bit about the Linux CLI, basic BASH Scripting, etc.
   * You will struggle but can likely code your own static Website using HTML, CSS, and some JavaScript.
   * Understands how to troubleshoot computer and network issues.
-  * Considered Grandma's hero whenever her tablet or phone isn't working.
   * May have an idea or recently discovered the OWASP Top 10, and maybe they've done a few walkthroughs regarding SQL Injection, XSS, and CSRF.
   * Gets the gist of encryption but doesn't understand it fully.  "It has keys and stuff..?"
   * Understands the CIA Triad, generally understands the differences between encryption, hashing, and encoding.
