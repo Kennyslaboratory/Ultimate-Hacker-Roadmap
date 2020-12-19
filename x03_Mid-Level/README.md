@@ -1,5 +1,5 @@
-# The Offical Hacker's Handbook - Level 4
-Finally, we've weeded out all the skiddies, newbies, and beginners.  We love them, we want the best for them, but it's finally time for some actual hacking.  Modern, expert level material are what we'll be learning and researching about now.  The things listed here is knowledge that I'm currently learning or recently researched in the last year or 2.  This section of the Handbook is subject to change and will improve as I improve.
+# The Offical Hacker's Handbook - Level 3
+Finally, we've weeded out all the skiddies and newbies.  We love them, we want the best for them, and they'll catch up eventually. But now it's time for the good shit.  Modern, expert level material are what we'll be learning and researching about now.  The things listed here is knowledge that I'm currently learning or recently researched in the last year or 2.  This section of the Handbook is subject to change and will improve as I improve.
 
 **You are not ready!** This Handbook is meant for currently employed penetration testers who are not entry-level, and are making over $100k / year.  If you've skipped over the monsterous amount of material in my Associate Hacker's Hackbook then you should not be researching the material in this Handbook.  Unless, you're just curious of course.
 
