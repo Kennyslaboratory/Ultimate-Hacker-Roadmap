@@ -1,4 +1,4 @@
-# Complete Beginner's Handbook - Level 0
+# Complete Beginner - Level 0
 **Is this you?:**
 You're interested in computers and want a job dealing with computer networks, security, servers, etc.  In the past, you've managed to log into the BIOS on your computer, install a new Graphics Card on your PC, and maybe you torrented a few movies from Pirate Bay.  You're tech savy but are not good enough to get an entry-level position in IT.  
 
