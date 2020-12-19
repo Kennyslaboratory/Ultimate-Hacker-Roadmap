@@ -1,5 +1,5 @@
 # The Ultimate Hacker Roadmap
-A list of everything you need to be successful as an Ethical Hacker.  The best learning resources, tools, exploits, and payloads all neatly organized into one place.  I've categorized everything by skill level so you know where you stand and where you should start.
+A complete pathway from Zero to Hero.
 
 ![Hacker_XP](./hacker_xp.png)
 
