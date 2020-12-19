@@ -42,6 +42,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * PwnTools
 
  * **Mobile Application Hacking Tools**
+  * Frida
   * iOS-Based Assessments:
     * PassionFruit
   * Andriod-Based Assessments:
