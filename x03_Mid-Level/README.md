@@ -155,6 +155,8 @@ It's not necessary to know everything here to advance yourself into a Senior, th
 ## Bypassing Modern Exploitation Prevention
  * Memory Leak Vulnerabilities
    * printf()
+   * Abusing the Meltdown Exploit
+   * Error message with memory addresses
  * Bypassing NX-Bit
    * Return-to-LibC
      * Executing function calls
