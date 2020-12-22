@@ -406,7 +406,8 @@ If you want to become an Associate Penetration Tester then you should put 80% of
   * Understanding the Basics
     * Reading / Writing Files
       * open()
-    * Issuing OS Commands
+        * Read, Write, Append
+    * **Issuing OS Commands**
       * os Module
         * os.chdir()
         * os.mkdir
@@ -421,6 +422,8 @@ If you want to become an Associate Penetration Tester then you should put 80% of
         * os.path.isdir()
         * os.path.isfile()
         * os.path.getsize()
+      * sys Module
+        * 
 
 
 ## Popular CVEs
