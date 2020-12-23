@@ -227,7 +227,8 @@ If you want to become an Associate Penetration Tester then you should put 80% of
       * Vhost Bruteforcing
         * Accessing unresolved DNS via Host Header
   * **More Checklists**
-      * ...
+      * CMS Scanners
+        * wpscan
       
       
 ## Web Application Vulnerabilities
@@ -247,6 +248,7 @@ If you want to become an Associate Penetration Tester then you should put 80% of
     * **XXE**
       * XXE-OOB
     * **Broken Access Controls**
+      * Insecure Direct Object Reference
     * **Security Misconfigurations**
     * **XSS**
       * Reflected
@@ -267,6 +269,9 @@ If you want to become an Associate Penetration Tester then you should put 80% of
     * OAuth2 Attacks
       * Open Redirect Token Theft
     * JSON Web Token CVEs
+      * [CVE-2015-2951] - alg=none
+      * [CVE-2016-10555] - RS/HS256 Key Mismatch
+      * [CVE-2018-0114] - Key injection
     * Web Sockets
     * Prototype Pollution
   * **Other Attacks:**
@@ -292,7 +297,7 @@ If you want to become an Associate Penetration Tester then you should put 80% of
     * LDAP
     * Single-Sign-On _(SSO)_
     * Kerberos
-  * iptables
+  * Linux iptables
     * ipTable Chains:
       * Input
       * Forward
@@ -302,7 +307,18 @@ If you want to become an Associate Penetration Tester then you should put 80% of
       * Drop
       * Reject
     
-
+## Common Cryptography Algorithms
+  * **Hashing Algorithms**
+    * HMAC
+    * MD5
+    * SHA1, SHA2
+    * Argon2
+    * bCrypt
+  * **Encryption Algorithms**
+    * EC
+    * RSA
+    * AES
+    * Deffie-Hellman Key Exchange
 ## Fundamental Network-Based Vulnerabilities
   * Man-In-The-Middle Attack
     * ARP Poisoning
@@ -387,8 +403,8 @@ If you want to become an Associate Penetration Tester then you should put 80% of
     * System Interrupts
     * Modules
 
-## BASH Scripting
-
+## BASH Scripting [to-do]
+... ... ... ...
 
 ## Local Privilage Exculation
  * Windows
