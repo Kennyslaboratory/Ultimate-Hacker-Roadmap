@@ -3,7 +3,7 @@ So you've looked over the laundry list of technological concepts in the **[x00_C
 
 Odds are you are probably working in a Technical Support role already and making upwards around $40,000 / year.  Your current job is boring the crap out of you and you were always super interested in Penetration Testing but have no idea how to get a job without a Computer Science Degree, etc.
 
-Great!  I'm here to finally level up your skills and get you out that boring IT Support role--no longer are you forced to deal with angry old men over the phone who can't access their email.  But, don't quit your day job just yet.  Breaking the barrier between IT Support Specialist and Penetration Tester took me nearly 5 years to accomplish.  I went through a lot of ups and downs personally.  However, I didn't have a curated list of topics that I needed to master beforehand.  So hopefully, I can get you up to speed quickly!
+Great!  I'm here to finally level up your skills and get you out of that boring IT Support role--no longer are you forced to deal with angry old men over the phone who can't access their email.  But, don't quit your day job just yet.  Breaking the barrier between IT Support Specialist and Penetration Tester took me nearly 5 years to accomplish.  I went through a lot of ups and downs personally.  However, I didn't have a curated list of topics that I needed to master beforehand.  So hopefully, I can get you up to speed quickly!
 
 -------
 ## What you should focus on:
