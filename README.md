@@ -5,7 +5,7 @@
 
 ## Skill Levels
 * **[Clueless](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x00_Clueless)** _(Unhirable)_
-  * You really want a job in IT but are unsure how to transition into an IT job from your current position.
+  * You really want a any job in IT but are unsure how to transition into an IT job from your current position.
   * You don't understand computing fundaments, code, networking, web technology, or how anything works beyond a very basic fundamental level.
   * Most technical things you've done are operating system installations, virus scans, and putting together a computer from scratch.
 * **[Newbie](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x01_Newbie)** _($30k - $50k)_
