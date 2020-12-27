@@ -9,7 +9,8 @@
   * You don't understand computing fundaments, code, networking, web technology, or how anything works beyond a very basic fundamental level.
   * Most technical things you've done are operating system installations, virus scans, and putting together a computer from scratch.
 * **[Newbie](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap/tree/main/x01_Newbie)** _($30k - $50k)_
-  * Already working as IT Support Specialist, IT Consultant, PC Repair Technician, etc.  **Start here if you are not yet a penetration tester!**
+  * Already working as IT Support Specialist, IT Consultant, PC Repair Technician, etc.  
+  * **Start here if you are not yet a penetration tester!**
   * Can troubleshoot PC problems, backup data, run RJ45 cables, and fix issues with email clients such as Outlook.
   * You might understand a little bit about the Linux CLI, basic BASH Scripting, etc.
   * You will struggle but can likely code your own static Website using HTML, CSS, and some JavaScript.
