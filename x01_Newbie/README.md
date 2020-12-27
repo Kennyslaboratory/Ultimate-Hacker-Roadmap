@@ -202,7 +202,10 @@ If you want to become an Associate Penetration Tester then you should put 80% of
           * GCP DataStore
           * Azure CosmosDB
      * **NoSQL Syntax Basics:**
-      * ...
+      * $where
+      * $eq
+      * $ne
+      * $gt
    * **Content Management Systems** _(CMS)_
       * WordPress
       * Drupal
