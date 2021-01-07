@@ -1,4 +1,4 @@
-# The Offical Hacker's Curriculum - Level 4
+# The Senior Hacker's Curriculum - Level 4
 If you're a Senior then congratulations.  You problably have been in the field much longer than I have and I am in no place to lecture you.  Since this level is related to cutting-edge reseach, much of the stuff I can hope to post here will be "old news."
 
 ## So What now..?
