@@ -5,7 +5,7 @@ If you're a Senior then congratulations.  You problably have been in the field m
 I personally think staying invovled in the Cyber Security Community is where a senior is likely going to put their attention.  Conventions, Security News, Blogs, and Social Media of other top hackers.  At this point, I feel it's a responsiblity to stay up to date with the latest Cyber Security breaches and news.
 
 -------
-# List of Cyber Security Entussiasts
+# List of Cyber Security Enthusiasts
 **Brian Krebs**
 | [Wikipedia Profile](https://en.wikipedia.org/wiki/Brian_Krebs) | Web URL |
 | [Brian's Blog](https://krebsonsecurity.com/) | Security Blog |
