@@ -8,7 +8,7 @@ I personally think staying invovled in the Cyber Security Community is where a s
 ## [Work in Progress...]
 -------
 # List of Cyber Security Enthusiasts
-**Brian Krebs**
+### Brian Krebs
 | Resources | Type |
 | --- | --- |
 | [Wikipedia Profile](https://en.wikipedia.org/wiki/Brian_Krebs) | Web URL |
@@ -17,7 +17,7 @@ I personally think staying invovled in the Cyber Security Community is where a s
 | [Twitter Profile](https://twitter.com/briankrebs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | Social Media |
 | [Amazon Account](https://www.amazon.com/Brian-Krebs/e/B00MSE86TI%3Fref=dbs_a_mng_rwt_scns_share) | Books Published |
 
-**Eugene Kaspersky**
+### Eugene Kaspersky
 _Founder of Kaspersky Lab_
 | Resources | Type |
 | --- | --- |
@@ -26,7 +26,7 @@ _Founder of Kaspersky Lab_
 | [LinkedIn Profile](https://www.linkedin.com/in/eugenekaspersky/) | Social Media |
 | [Twitter Profile](https://twitter.com/e_kaspersky) | Social Media |
 
-**Bruce Schneier**
+### Bruce Schneier
 | Resources | Type |
 | --- | --- |
 | [Wikipedia Profile](https://en.wikipedia.org/wiki/Bruce_Schneier) | Web URL |
@@ -37,7 +37,7 @@ _Founder of Kaspersky Lab_
 # [Tribe of Hackers](https://www.amazon.com/Tribe-Hackers-Cybersecurity-Advice-World-dp-1119643376/dp/1119643376/ref=dp_ob_title_bk) *(Book)*
 This is a list of other career Security Researchers found in the Book, Tribe of Hackers.
 
-**Robert M. Lee**
+### Robert M. Lee
 _Founder and CEO, Dragos, Inc. Featured in "Tribe of Hackers"._
 | Resources | Type |
 | --- | --- |
@@ -47,7 +47,7 @@ _Founder and CEO, Dragos, Inc. Featured in "Tribe of Hackers"._
 | [Twitter Profile](https://twitter.com/RobertMLee?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | Social Media |
 | [Amazon Account](https://www.amazon.com/Robert-M.-Lee/e/B00F1Y1L6C%3Fref=dbs_a_mng_rwt_scns_share) | Books Published |
 
-**Tracy Z. Maleeff**
+### Tracy Z. Maleeff
 | Resources | Type |
 | --- | --- |
 | [About Profile](https://reciprocitylabs.com/tracy-z-maleeff/) | Web URL |
