@@ -18,7 +18,7 @@ I personally think staying invovled in the Cyber Security Community is where a s
 | [Amazon Account](https://www.amazon.com/Brian-Krebs/e/B00MSE86TI%3Fref=dbs_a_mng_rwt_scns_share) | Books Published |
 
 **Eugene Kaspersky**
-_	Founder of Kaspersky Lab_
+_Founder of Kaspersky Lab_
 | Resources | Type |
 | --- | --- |
 | [Wikipedia Profile](https://en.wikipedia.org/wiki/Eugene_Kaspersky) | Web URL |
