@@ -21,7 +21,7 @@ I personally think staying invovled in the Cyber Security Community is where a s
 _	Founder of Kaspersky Lab_
 | Resources | Type |
 | --- | --- |
-| [Wikipedia Profile](https://en.wikipedia.org/wiki/Eugene_Kaspersky#:~:text=Yevgeny%20Valentinovich%20Kaspersky%20(Russian%3A%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9,security%20company%20with%204%2C000%20employees.&text=Kaspersky%20helped%20grow%20Kaspersky%20Lab%20through%20security%20research%20and%20salesmanship.) | Web URL |
+| [Wikipedia Profile](https://en.wikipedia.org/wiki/Eugene_Kaspersky) | Web URL |
 | [Yevgeny's Blog](https://eugene.kaspersky.com/) | Security Blog |
 | [LinkedIn Profile](https://www.linkedin.com/in/eugenekaspersky/) | Social Media |
 | [Twitter Profile](https://twitter.com/e_kaspersky) | Social Media |
