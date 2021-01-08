@@ -86,6 +86,18 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
  * Type Casting
  * References
 
+## Advanced Network-Based Vulnerabilities [to-do]
+ * SSL/TLS Vulnerabilities
+    * POODLE
+    * BEAST
+    * CRIME
+    * FREAK
+    * DROWN
+    * SWEET32
+    * NOMORE
+    * BREACH
+    * HeartBleed
+
 ## Reverse Engineering
  * **Binary Fundamentals**
    * Endianness
