@@ -317,20 +317,11 @@ If you want to become an Associate Penetration Tester then you should put 80% of
         * Server Certificates
         * Chain of Trust
     * Diffie-Hellman Key Exchange
-      * SSL/TLS Vulnerabilities
-         * POODLE
-         * BEAST
-         * CRIME
-         * FREAK
-         * DROWN
-         * SWEET32
-         * NOMORE
-         * BREACH
-         * HeartBleed
   * Active Directory Services
     * LDAP
     * Single-Sign-On _(SSO)_
     * Kerberos
+  * RADIUS
   * Linux iptables
     * ipTable Chains:
       * Input
