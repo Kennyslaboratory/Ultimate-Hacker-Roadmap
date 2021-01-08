@@ -247,7 +247,7 @@ If you want to become an Associate Penetration Tester then you should put 80% of
       * CMS Scanners
         * wpscan
       * /.well-known/security.txt
-      * CGI-Bin Vulnerabilities?
+      * Testing for CGI-Bin Vulnerabilities
       
       
 ## Web Application Vulnerabilities
@@ -268,7 +268,12 @@ If you want to become an Associate Penetration Tester then you should put 80% of
       * XXE-OOB
     * **Broken Access Controls**
       * Insecure Direct Object Reference
+      * Forced Browsing
     * **Security Misconfigurations**
+      * Default Passwords
+      * Liberal File Permissions
+      * Unecrypted backups
+      * CORS Misconfigurations, etc.
     * **XSS**
       * Reflected
       * Stored
