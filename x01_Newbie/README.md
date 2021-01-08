@@ -219,19 +219,35 @@ If you want to become an Associate Penetration Tester then you should put 80% of
           * Forms, File Uploads, etc.
       * Check robots.txt
       * nikto
-      * dig
+      * Check Security Headers
+        * https://securityheaders.com/
       * Google Dorks
       * Checking HTTP Responses for sensitive information
       * Forced Browsing
+        * Authorization bugs, etc.
       * Enumerate subdomains
       * Check for HTML Comments
       * View custom JavaScript
-      * /.well-known/security.txt
-      * Vhost Bruteforcing
-        * Accessing unresolved DNS via Host Header
+        * DOM-XSS, (sources / sinks?)
+        * APIs endpoints?
+      * Enumerate Frameworks and Versions
+        * BuiltWith, WApplzyer, Comments, etc.
+        * Testing for CVEs
+      * Session Management Configurations
+        * Review OAuth2 Implementations
+        * JSON Web Token Implementations
+        * SAML Misconfigurations
+        * Cookie Prefixes
   * **More Checklists**
+      * Testing SSL
+        * testsssl.sh
+        * ssllabs.com scan
+      * Vhost Bruteforcing _(eh...)_
+        * Accessing unresolved DNS via Host Header
       * CMS Scanners
         * wpscan
+      * /.well-known/security.txt
+      * CGI-Bin Vulnerabilities?
       
       
 ## Web Application Vulnerabilities
