@@ -42,11 +42,11 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * PwnTools
 
  * **Mobile Application Hacking Tools**
-  * Frida
-  * iOS-Based Assessments:
-    * PassionFruit
-  * Andriod-Based Assessments:
-    * ...
+   * Frida
+   * iOS-Based Assessments:
+     * PassionFruit
+   * Andriod-Based Assessments:
+     * ...
 
 
 ## Advanced Web Application Exploitation
@@ -58,14 +58,7 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * .doc Upload Attacks
    * img Upload Attacks
  * XXE-OOB Exploitation
- *
- 
 
-
-## Advanced Network Security [to-do]
-...
-...
-...
 
 ## C/C++ Programming Essentials
  * Variable Types
