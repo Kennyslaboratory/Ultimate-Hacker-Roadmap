@@ -232,13 +232,13 @@ If you want to become an Associate Penetration Tester then you should put 80% of
         * APIs endpoints?
       * Enumerate Frameworks and Versions
         * BuiltWith, WApplzyer, Comments, etc.
-        * Testing for CVEs
+        * Research for unpatched CVEs?
       * Session Management Configurations
         * Review OAuth2 Implementations
         * JSON Web Token Implementations
         * SAML Misconfigurations
         * Cookie Prefixes
-  * **More Checklists**
+  * **More Checks**
       * Testing SSL
         * testsssl.sh
         * ssllabs.com scan
@@ -265,7 +265,12 @@ If you want to become an Associate Penetration Tester then you should put 80% of
     * **Broken Authentication**
     * **Sensitive Data Exposure**
     * **XXE**
+      * Document Type Definitions
+      * Entities
+      * File Upload XXEs
       * XXE-OOB
+        * Burp Collaborator
+        
     * **Broken Access Controls**
       * Insecure Direct Object Reference
       * Forced Browsing
@@ -444,31 +449,30 @@ If you want to become an Associate Penetration Tester then you should put 80% of
 
 
 ## Python Essentials
-  * Understanding the Basics
-    * Reading / Writing Files
-      * open()
-        * Read, Write, Append
-    * **Issuing OS Commands**
-      * os Module
-        * os.chdir()
-        * os.mkdir
-        * os.remove()
-        * os.rename()
-        * os.listdir()
-        * os.mkdir()
-        * os.rmdir()
-        * os.chmod()
-        * os.path.exists()
-        * os.path.isabs()
-        * os.path.isdir()
-        * os.path.isfile()
-        * os.path.getsize()
-      * sys Module
-        * 
+  * Understanding the Basics / coding fundamentals...
+    * Loops, If/Else, Variables, Functions, etc
+  * Reading / Writing Files
+    * open()
+      * Read, Write, Append
+  * **Requests Module**
+    * requests.get()
+    * requests.post()
+      * auth=(user, pass)
+  * **Regular Expressions**
+    * [Top 15 Commonly Used RegEx](https://digitalfortress.tech/tricks/top-15-commonly-used-regex/)
+    * Parsing for Phone Numbers
+    * Parsing for Emails
+    * Parsing for Form Values
 
 
-## Popular CVEs
-
+## Popular CVEs _(Stuff you should probably know about)_
+  * Eternal Blue
+  * DirtyCow
+  * ShellShock
+  * MeltDown
+    * Spectre
+  * HeartBleed
+  * MS14-068: Kerberos Elevation of Privilege Vulnerability
 
 
 ## Recommended Certifications
