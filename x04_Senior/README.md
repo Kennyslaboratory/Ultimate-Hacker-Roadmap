@@ -23,6 +23,8 @@ https://www.feedspot.com/
 | [Kitploit](https://www.kitploit.com/) | Security Blog |
 | [Extreme Hacking](http://blog.extremehacking.org/) | Security Blog |
 | [Reddit](https://www.reddit.com/r/hacking/) | Security Feed |
+| [KnowBe4](https://blog.knowbe4.com/) | Security Blog |
+| [GbHackers](https://gbhackers.com/) | Security Blog |
 
 # List of Cyber Security Enthusiasts
 ### Brian Krebs
