@@ -7,6 +7,23 @@ I personally think staying invovled in the Cyber Security Community is where a s
 
 ## [Work in Progress...]
 -------
+# Subscribe to Feedspot
+I'm not affilated with them.  If a better service is available, I will recommend that instead.
+This service though let's you stay up to date between hundreds of blogs and security news sites all in one dashboard.
+https://www.feedspot.com/
+
+# List of Top Blogs / Security News Sites
+| Blog | Description |
+| --- | --- |
+| [Latest Hacking News](https://latesthackingnews.com/category/cyber-security-news/) | Security Blog |
+| [The Hacker News Feed](https://feeds.feedburner.com/TheHackersNews) | Security Blog |
+| [WeLiveSecurity](https://www.welivesecurity.com/) | Security Blog |
+| [HackerOne Blog](https://www.hackerone.com/blog) | Security Blog |
+| [Hacker Noon](https://hackernoon.com/) | Security Blog |
+| [Kitploit](https://www.kitploit.com/) | Security Blog |
+| [Extreme Hacking](http://blog.extremehacking.org/) | Security Blog |
+| [Reddit](https://www.reddit.com/r/hacking/) | Security Feed |
+
 # List of Cyber Security Enthusiasts
 ### Brian Krebs
 | Resources | Type |
