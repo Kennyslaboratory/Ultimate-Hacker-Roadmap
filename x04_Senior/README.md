@@ -25,6 +25,7 @@ https://www.feedspot.com/
 | [Reddit](https://www.reddit.com/r/hacking/) | Security Feed |
 | [KnowBe4](https://blog.knowbe4.com/) | Security Blog |
 | [GbHackers](https://gbhackers.com/) | Security Blog |
+| [Detectify's Blog](https://blog.detectify.com/) | Security Blog |
 
 # List of Cyber Security Enthusiasts
 ### Brian Krebs
