@@ -304,6 +304,7 @@ If you want to become an Associate Penetration Tester then you should put 80% of
     * Web Sockets
     * Prototype Pollution
   * **Other Attacks:**
+    * CSRF
     * Directory Traversal
     * Local File Inclusion
       * Log Poisoning
