@@ -37,6 +37,7 @@ If you want to become an Associate Penetration Tester then you should put 80% of
      * Dirbuster
    * SQLmap
    * WPscan
+   * CMSmap
    * w3af
    * CeWL
    * testssl.sh
