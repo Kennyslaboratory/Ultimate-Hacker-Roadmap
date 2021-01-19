@@ -94,6 +94,8 @@ If you want to become an Associate Penetration Tester then you should put 80% of
       * Link Redirect Trace
       * JWT Debugger
       * JSONView
+      * Retire.js
+      * Builtwith
    
 
 ## Web Application Fundamentals
