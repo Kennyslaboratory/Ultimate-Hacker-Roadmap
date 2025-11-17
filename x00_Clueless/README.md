@@ -59,8 +59,8 @@ Every IT interview starts with hardware. "What's the difference between RAM and 
 
 | Term | Definition | Learn It Fast |
 |------|-----------|---------------|
-| **[BIOS](https://www.youtube.com/watch?v=8rnOwGNHJns)** | Basic Input/Output System - firmware that initializes hardware | [PowerCert: UEFI vs BIOS](https://www.youtube.com/watch?v=8rnOwGNHJns) |
-| **[UEFI](https://www.youtube.com/watch?v=8rnOwGNHJns)** | Unified Extensible Firmware Interface - modern BIOS replacement | [PowerCert: UEFI vs BIOS](https://www.youtube.com/watch?v=8rnOwGNHJns) |
+| **[BIOS](https://www.youtube.com/watch?v=zIYkol851dU)** | Basic Input/Output System - firmware that initializes hardware | [PowerCert: UEFI vs BIOS](https://www.youtube.com/watch?v=8rnOwGNHJns) |
+| **[UEFI](https://www.youtube.com/watch?v=zIYkol851dU)** | Unified Extensible Firmware Interface - modern BIOS replacement | [PowerCert: UEFI vs BIOS](https://www.youtube.com/watch?v=8rnOwGNHJns) |
 | **[POST](https://www.youtube.com/watch?v=8rnOwGNHJns)** | Power-On Self-Test - hardware check during boot | [PowerCert: POST Explained](https://www.youtube.com/watch?v=8rnOwGNHJns) |
 | **[CMOS](https://www.youtube.com/watch?v=8rnOwGNHJns)** | Complementary Metal-Oxide-Semiconductor - stores BIOS settings | [PowerCert: CMOS Battery](https://www.youtube.com/watch?v=8rnOwGNHJns) |
 | **[Boot Sequence](https://www.youtube.com/watch?v=8rnOwGNHJns)** | Order devices are checked for bootable OS | [PowerCert: Boot Process](https://www.youtube.com/watch?v=8rnOwGNHJns) |
@@ -82,9 +82,9 @@ Every IT interview starts with hardware. "What's the difference between RAM and 
 | **[Secure Boot](https://www.youtube.com/watch?v=8rnOwGNHJns)** | UEFI security feature preventing unauthorized OS | [PowerCert: UEFI vs BIOS](https://www.youtube.com/watch?v=8rnOwGNHJns) |
 | **[SATA](https://www.youtube.com/watch?v=wtdnatmVdIg)** | Serial ATA - storage interface | [PowerCert: Storage Devices](https://www.youtube.com/watch?v=wtdnatmVdIg) |
 | **[Partition](https://www.youtube.com/watch?v=wtdnatmVdIg)** | Logical division of storage | [PowerCert: Disk Partitioning](https://www.youtube.com/watch?v=wtdnatmVdIg) |
-| **[MBR](https://www.youtube.com/watch?v=wtdnatmVdIg)** | Master Boot Record - legacy partition table | [PowerCert: MBR vs GPT](https://www.youtube.com/watch?v=wtdnatmVdIg) |
-| **[GPT](https://www.youtube.com/watch?v=wtdnatmVdIg)** | GUID Partition Table - modern partition table | [PowerCert: MBR vs GPT](https://www.youtube.com/watch?v=wtdnatmVdIg) |
-| **[NTFS](https://www.youtube.com/watch?v=wtdnatmVdIg)** | New Technology File System - Windows standard | [PowerCert: File Systems](https://www.youtube.com/watch?v=wtdnatmVdIg) |
+| **[MBR](https://www.youtube.com/watch?v=Ch9f7i0hj90)** | Master Boot Record - legacy partition table | [MBR vs GPT](https://www.youtube.com/watch?v=Ch9f7i0hj90) |
+| **[GPT](https://www.youtube.com/watch?v=Ch9f7i0hj90)** | GUID Partition Table - modern partition table | [MBR vs GPT](https://www.youtube.com/watch?v=Ch9f7i0hj90) |
+| **[NTFS](https://www.youtube.com/watch?v=bYjQakUxeVY)** | New Technology File System - Windows standard | [File Systems](https://www.youtube.com/watch?v=bYjQakUxeVY) |
 | **[DDR](https://www.youtube.com/watch?v=qmJWkfOTOPg)** | Double Data Rate - RAM type | [PowerCert: RAM Explained](https://www.youtube.com/watch?v=qmJWkfOTOPg) |
 | **[Multi-threading](https://www.youtube.com/watch?v=7J8X3V4R3cg)** | CPU executing multiple threads simultaneously | [PowerCert: CPU Explained](https://www.youtube.com/watch?v=7J8X3V4R3cg) |
 | **[32-bit vs 64-bit](https://www.youtube.com/watch?v=7J8X3V4R3cg)** | CPU architecture - addressable memory | [PowerCert: CPU Explained](https://www.youtube.com/watch?v=7J8X3V4R3cg) |
@@ -103,16 +103,18 @@ Every IT interview starts with hardware. "What's the difference between RAM and 
 | **[DisplayPort](https://www.youtube.com/watch?v=7J8X3V4R3cg)** | Modern video connector | [PowerCert: Video Connectors](https://www.youtube.com/watch?v=7J8X3V4R3cg) |
 | **[PSU](https://www.youtube.com/watch?v=7J8X3V4R3cg)** | Power Supply Unit | [PowerCert: PSU Explained](https://www.youtube.com/watch?v=7J8X3V4R3cg) |
 | **[Motherboard](https://www.youtube.com/watch?v=7J8X3V4R3cg)** | Main circuit board | [PowerCert: Motherboard Explained](https://www.youtube.com/watch?v=7J8X3V4R3cg) |
+| **[GPU](https://www.youtube.com/watch?v=1kypaBjJ-pg)** | Graphics Processing Unit | [Techquickie: GPU Explained](https://www.youtube.com/watch?v=1kypaBjJ-pg) |
+| **[CPU](https://www.youtube.com/watch?v=1kypaBjJ-pg)** | Core Processing Unit | [Techquickie: CPU Explained](https://www.youtube.com/watch?v=1kypaBjJ-pg) |
 
 ### **Essential Vocabulary: Be Familiar With (Recognize When You See It)**
 
 | Term | Definition | Learn It Fast |
 |------|-----------|---------------|
-| **[FAT32](https://www.youtube.com/watch?v=wtdnatmVdIg)** | File Allocation Table 32-bit file system | [PowerCert: File Systems](https://www.youtube.com/watch?v=wtdnatmVdIg) |
+| **[FAT32](https://www.youtube.com/watch?v=bYjQakUxeVY)** | File Allocation Table 32-bit file system | [PowerCert: File Systems](https://www.youtube.com/watch?v=wtdnatmVdIg) |
 | **[ext4](https://linuxjourney.com/lesson/filesystem)** | Extended File System 4 - Linux standard | [Linux Journey: Filesystem](https://linuxjourney.com/lesson/filesystem) |
 | **[x86](https://www.youtube.com/watch?v=7J8X3V4R3cg)** | 32-bit architecture | [PowerCert: CPU Explained](https://www.youtube.com/watch?v=7J8X3V4R3cg) |
 | **[x64](https://www.youtube.com/watch?v=7J8X3V4R3cg)** | 64-bit architecture | [PowerCert: CPU Explained](https://www.youtube.com/watch?v=7J8X3V4R3cg) |
-| **[GPU](https://www.youtube.com/watch?v=7J8X3V4R3cg)** | Graphics Processing Unit | [PowerCert: GPU Explained](https://www.youtube.com/watch?v=7J8X3V4R3cg) |
+
 
 ### **What You Must Be Able To Do**
 
