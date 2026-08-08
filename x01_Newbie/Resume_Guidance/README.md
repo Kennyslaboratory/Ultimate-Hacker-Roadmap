@@ -813,6 +813,7 @@ Before submitting, verify:
   - [Resume Worded](https://resumeworded.com/) - Resume analysis tool
 
 - **ATS Testing:**
+  - [CVExpert ATS Health Check](https://cvexpert.com/tools/ats-health-check) - Free, no-sign-up ATS readability checks; pasted text stays in the browser
   - [Jobscan](https://www.jobscan.co/) - ATS optimization tool
   - [Resume.io](https://resume.io/) - ATS-friendly templates
 
