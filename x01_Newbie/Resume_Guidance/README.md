@@ -814,6 +814,7 @@ Before submitting, verify:
 
 - **ATS Testing:**
   - [Jobscan](https://www.jobscan.co/) - ATS optimization tool
+  - [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026 (738/704; Workday 37.9%); live leaderboard for paid placement/visibility
   - [Resume.io](https://resume.io/) - ATS-friendly templates
 
 - **LinkedIn Optimization:**
